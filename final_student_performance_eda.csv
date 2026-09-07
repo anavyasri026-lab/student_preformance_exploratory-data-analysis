@@ -1,0 +1,3001 @@
+Student_ID,Gender,Age,Study_Hours,Attendance,Previous_Score,Final_Score,Performance
+1,Male,19,5.7,71,76,75,Good
+2,Female,21,1.3,95,60,58,Needs Improvement
+3,Male,22,4.1,89,76,69,Good
+4,Male,22,4.3,95,82,62,Good
+5,Male,19,7.2,78,72,68,Good
+6,Female,18,3.3,81,60,55,Needs Improvement
+7,Male,21,6.9,83,64,62,Good
+8,Male,22,2.4,77,74,66,Good
+9,Male,19,6.9,84,73,69,Good
+10,Female,22,3.6,98,87,65,Good
+11,Male,21,4.6,69,66,52,Needs Improvement
+12,Male,21,3.9,75,57,64,Good
+13,Male,20,6.8,74,100,77,Good
+14,Male,19,6.5,81,72,56,Needs Improvement
+15,Female,21,5.3,81,82,66,Good
+16,Male,20,2.4,90,77,53,Needs Improvement
+17,Female,20,3.2,82,73,65,Good
+18,Female,22,2.6,85,67,47,Needs Improvement
+19,Female,22,0.5,86,35,35,Needs Improvement
+20,Male,20,6.8,84,55,60,Good
+21,Female,22,3.9,89,75,70,Good
+22,Male,21,3.9,81,35,43,Needs Improvement
+23,Female,18,7.2,98,71,65,Good
+24,Female,21,3.6,100,79,69,Good
+25,Female,20,3.0,89,82,63,Good
+26,Female,20,4.1,84,78,71,Good
+27,Female,21,2.5,88,83,69,Good
+28,Female,22,5.1,71,92,68,Good
+29,Female,22,3.8,84,85,72,Good
+30,Female,20,3.6,75,73,61,Good
+31,Male,19,3.4,87,68,66,Good
+32,Male,22,4.3,75,72,64,Good
+33,Female,21,4.7,79,66,62,Good
+34,Female,22,3.6,63,86,70,Good
+35,Female,21,3.9,70,78,61,Good
+36,Male,20,4.4,86,65,56,Needs Improvement
+37,Female,22,4.2,73,89,69,Good
+38,Male,21,4.6,93,66,60,Good
+39,Male,20,3.3,72,57,53,Needs Improvement
+40,Male,19,6.3,87,70,67,Good
+41,Male,21,4.7,74,58,56,Needs Improvement
+42,Male,19,3.6,86,83,61,Good
+43,Female,19,5.1,67,58,56,Needs Improvement
+44,Female,18,4.4,77,68,53,Needs Improvement
+45,Female,22,1.4,74,83,64,Good
+46,Female,21,5.1,91,60,65,Good
+47,Female,19,2.7,87,76,63,Good
+48,Male,18,6.2,70,56,57,Needs Improvement
+49,Female,20,4.1,80,73,61,Good
+50,Female,21,5.9,74,78,64,Good
+51,Male,19,3.4,92,69,61,Good
+52,Female,22,4.6,95,70,75,Good
+53,Male,18,6.7,68,76,67,Good
+54,Female,19,4.0,90,66,54,Needs Improvement
+55,Male,22,3.4,74,82,55,Needs Improvement
+56,Female,19,5.7,79,89,65,Good
+57,Female,21,5.6,82,57,56,Needs Improvement
+58,Male,21,3.5,100,95,82,Excellent
+59,Male,21,0.9,72,66,44,Needs Improvement
+60,Male,18,3.4,90,98,81,Excellent
+61,Male,21,5.7,70,66,61,Good
+62,Male,22,3.1,70,80,63,Good
+63,Male,19,4.5,82,80,69,Good
+64,Male,20,3.3,82,65,59,Needs Improvement
+65,Male,22,1.0,54,71,46,Needs Improvement
+66,Female,22,3.3,94,90,59,Needs Improvement
+67,Female,21,5.7,61,65,54,Needs Improvement
+68,Male,18,0.5,81,64,45,Needs Improvement
+69,Female,19,5.0,95,54,59,Needs Improvement
+70,Female,18,2.4,100,92,73,Good
+71,Female,19,5.6,78,63,58,Needs Improvement
+72,Female,19,5.8,68,87,78,Good
+73,Male,18,4.2,95,62,57,Needs Improvement
+74,Female,22,4.2,91,86,59,Needs Improvement
+75,Male,19,3.0,77,81,63,Good
+76,Female,18,2.1,76,67,59,Needs Improvement
+77,Female,19,7.6,75,60,63,Good
+78,Female,20,2.9,79,61,51,Needs Improvement
+79,Male,22,7.3,85,61,65,Good
+80,Female,21,3.0,76,85,73,Good
+81,Male,19,5.4,78,72,59,Needs Improvement
+82,Female,20,2.5,88,54,51,Needs Improvement
+83,Male,21,5.4,67,66,62,Good
+84,Female,21,3.9,78,68,60,Good
+85,Male,19,3.9,65,40,41,Needs Improvement
+86,Male,18,5.6,83,67,61,Good
+87,Female,19,3.7,63,80,59,Needs Improvement
+88,Male,20,1.9,91,68,60,Good
+89,Female,21,5.9,69,74,66,Good
+90,Female,19,2.4,64,77,67,Good
+91,Female,18,5.4,78,65,53,Needs Improvement
+92,Female,19,6.3,99,80,83,Excellent
+93,Female,22,3.8,89,90,70,Good
+94,Female,18,6.6,63,49,51,Needs Improvement
+95,Female,20,5.4,69,65,63,Good
+96,Female,21,3.2,78,100,76,Good
+97,Female,19,7.0,100,72,78,Good
+98,Female,18,2.4,73,70,62,Good
+99,Female,22,3.8,73,66,56,Needs Improvement
+100,Male,18,4.1,97,88,80,Excellent
+101,Male,22,5.6,84,57,55,Needs Improvement
+102,Female,20,6.5,93,83,73,Good
+103,Female,21,6.4,75,66,61,Good
+104,Female,20,4.9,81,60,55,Needs Improvement
+105,Female,19,4.0,95,67,62,Good
+106,Female,18,1.2,81,69,58,Needs Improvement
+107,Female,22,2.1,93,63,59,Needs Improvement
+108,Female,22,7.7,86,86,74,Good
+109,Female,18,1.2,72,60,44,Needs Improvement
+110,Male,18,3.1,82,72,55,Needs Improvement
+111,Female,19,6.6,92,78,73,Good
+112,Male,20,4.9,89,72,57,Needs Improvement
+113,Female,22,6.2,82,81,66,Good
+114,Female,19,5.5,63,64,54,Needs Improvement
+115,Male,20,7.1,64,79,73,Good
+116,Female,19,5.0,66,79,63,Good
+117,Male,22,5.7,77,84,75,Good
+118,Female,18,3.2,78,44,46,Needs Improvement
+119,Female,18,5.6,67,77,62,Good
+120,Male,20,3.8,92,83,66,Good
+121,Female,21,3.7,69,64,48,Needs Improvement
+122,Male,20,6.1,68,62,70,Good
+123,Female,21,6.1,83,60,66,Good
+124,Male,19,7.5,92,56,67,Good
+125,Male,19,7.4,100,79,70,Good
+126,Female,22,6.2,88,100,79,Good
+127,Female,21,1.4,98,62,50,Needs Improvement
+128,Male,22,7.8,70,63,63,Good
+129,Female,18,6.2,100,70,65,Good
+130,Female,21,3.1,63,48,40,Needs Improvement
+131,Female,20,5.8,77,60,54,Needs Improvement
+132,Male,18,2.6,88,69,57,Needs Improvement
+133,Male,18,5.6,66,57,55,Needs Improvement
+134,Male,20,2.1,73,87,61,Good
+135,Male,18,3.0,71,52,55,Needs Improvement
+136,Male,21,5.8,79,83,74,Good
+137,Male,22,6.4,96,91,75,Good
+138,Male,18,5.1,82,75,67,Good
+139,Male,21,4.0,77,68,55,Needs Improvement
+140,Male,19,0.7,53,73,46,Needs Improvement
+141,Female,21,4.1,87,64,61,Good
+142,Male,22,5.5,90,41,55,Needs Improvement
+143,Female,21,3.9,65,56,47,Needs Improvement
+144,Female,20,4.5,81,70,56,Needs Improvement
+145,Female,22,4.2,84,57,56,Needs Improvement
+146,Male,19,3.9,92,64,62,Good
+147,Male,20,4.6,75,77,60,Good
+148,Male,21,4.0,73,72,64,Good
+149,Male,22,7.1,77,85,77,Good
+150,Female,19,0.5,95,74,54,Needs Improvement
+151,Male,20,3.5,92,75,70,Good
+152,Male,19,2.9,82,60,59,Needs Improvement
+153,Male,21,4.9,92,51,66,Good
+154,Male,19,4.6,58,64,62,Good
+155,Male,18,7.4,90,60,60,Good
+156,Female,20,8.0,71,68,70,Good
+157,Male,19,3.1,100,55,60,Good
+158,Female,21,4.5,71,82,63,Good
+159,Male,21,4.9,73,60,58,Needs Improvement
+160,Female,19,3.1,88,65,48,Needs Improvement
+161,Male,21,5.6,89,70,56,Needs Improvement
+162,Male,22,4.1,78,86,59,Needs Improvement
+163,Female,22,2.6,86,95,72,Good
+164,Female,22,4.0,87,96,76,Good
+165,Female,18,2.7,86,52,48,Needs Improvement
+166,Male,19,6.4,78,65,71,Good
+167,Female,18,7.9,87,62,71,Good
+168,Male,21,4.9,96,75,60,Good
+169,Male,18,4.7,70,74,60,Good
+170,Female,21,4.8,74,62,52,Needs Improvement
+171,Female,21,6.6,82,61,64,Good
+172,Male,20,6.6,71,56,57,Needs Improvement
+173,Male,22,4.3,64,35,36,Needs Improvement
+174,Female,21,5.0,93,52,65,Good
+175,Female,20,5.7,60,82,65,Good
+176,Female,22,2.5,78,91,64,Good
+177,Male,21,6.7,90,89,76,Good
+178,Male,21,7.6,85,83,83,Excellent
+179,Male,18,6.6,78,56,63,Good
+180,Male,18,2.3,71,53,45,Needs Improvement
+181,Male,22,1.0,85,45,38,Needs Improvement
+182,Male,21,5.8,72,62,54,Needs Improvement
+183,Female,19,3.1,85,71,57,Needs Improvement
+184,Male,18,5.0,83,56,59,Needs Improvement
+185,Male,22,7.3,84,76,75,Good
+186,Male,21,3.3,76,79,58,Needs Improvement
+187,Female,21,3.8,100,63,65,Good
+188,Male,19,5.0,86,51,50,Needs Improvement
+189,Male,22,2.2,79,89,62,Good
+190,Female,21,3.1,85,70,52,Needs Improvement
+191,Male,18,4.5,74,97,65,Good
+192,Male,19,4.0,78,71,55,Needs Improvement
+193,Male,22,5.6,100,72,69,Good
+194,Male,19,9.5,74,56,59,Needs Improvement
+195,Male,18,4.7,81,64,66,Good
+196,Female,22,3.0,77,48,42,Needs Improvement
+197,Female,19,7.1,72,51,57,Needs Improvement
+198,Female,20,1.6,86,80,67,Good
+199,Male,18,2.0,82,66,55,Needs Improvement
+200,Male,18,3.4,91,64,56,Needs Improvement
+201,Male,18,4.0,90,60,58,Needs Improvement
+202,Female,20,3.4,91,65,56,Needs Improvement
+203,Male,20,4.4,73,86,62,Good
+204,Male,21,5.0,88,72,68,Good
+205,Female,19,6.4,89,53,56,Needs Improvement
+206,Male,21,4.7,72,84,71,Good
+207,Female,19,3.5,79,94,74,Good
+208,Female,20,6.3,67,77,66,Good
+209,Female,20,3.0,89,82,70,Good
+210,Male,21,1.6,89,87,62,Good
+211,Male,22,6.7,96,47,62,Good
+212,Male,21,6.6,80,96,82,Excellent
+213,Male,19,3.1,87,85,65,Good
+214,Male,21,3.8,92,77,63,Good
+215,Male,18,2.8,74,68,57,Needs Improvement
+216,Male,19,5.1,73,51,62,Good
+217,Female,19,7.6,75,65,63,Good
+218,Male,22,5.8,79,76,64,Good
+219,Female,20,6.4,73,55,62,Good
+220,Male,19,6.0,75,69,63,Good
+221,Male,20,4.5,91,53,60,Good
+222,Male,21,6.5,81,65,71,Good
+223,Female,18,5.8,85,51,46,Needs Improvement
+224,Female,22,7.1,76,50,56,Needs Improvement
+225,Female,20,3.7,76,75,60,Good
+226,Female,19,1.4,85,62,47,Needs Improvement
+227,Male,20,6.4,83,63,53,Needs Improvement
+228,Female,19,5.1,90,61,52,Needs Improvement
+229,Male,20,4.0,95,100,78,Good
+230,Male,19,4.1,75,79,61,Good
+231,Female,21,9.1,91,80,74,Good
+232,Female,19,3.3,71,59,52,Needs Improvement
+233,Female,19,3.0,100,77,62,Good
+234,Female,18,4.7,74,67,65,Good
+235,Female,19,6.6,89,59,59,Needs Improvement
+236,Female,18,8.6,71,97,89,Excellent
+237,Female,22,5.7,80,78,67,Good
+238,Female,18,2.2,97,77,60,Good
+239,Male,21,8.0,74,56,57,Needs Improvement
+240,Female,18,4.5,100,52,64,Good
+241,Female,22,3.0,82,69,61,Good
+242,Male,21,2.6,92,62,52,Needs Improvement
+243,Female,20,6.0,86,79,71,Good
+244,Male,20,4.9,87,80,57,Needs Improvement
+245,Male,18,5.1,68,71,54,Needs Improvement
+246,Female,18,6.8,77,82,68,Good
+247,Male,22,3.1,94,73,59,Needs Improvement
+248,Male,22,7.0,79,58,67,Good
+249,Male,19,3.6,83,67,49,Needs Improvement
+250,Male,22,8.4,67,72,61,Good
+251,Female,19,5.6,77,83,71,Good
+252,Male,21,2.8,93,73,63,Good
+253,Female,18,0.9,69,62,45,Needs Improvement
+254,Male,21,6.0,89,84,83,Excellent
+255,Male,22,3.8,84,75,66,Good
+256,Male,21,4.2,80,92,77,Good
+257,Male,21,5.9,79,71,64,Good
+258,Female,21,6.3,77,55,54,Needs Improvement
+259,Female,22,6.7,78,86,71,Good
+260,Male,21,2.4,91,62,60,Good
+261,Male,19,7.1,78,74,72,Good
+262,Female,22,3.5,100,73,64,Good
+263,Male,21,0.5,85,71,56,Needs Improvement
+264,Male,22,2.4,76,68,59,Needs Improvement
+265,Male,20,4.9,92,47,51,Needs Improvement
+266,Female,19,2.7,88,56,50,Needs Improvement
+267,Female,21,4.3,65,86,67,Good
+268,Female,20,5.1,72,76,55,Needs Improvement
+269,Male,20,4.2,81,97,76,Good
+270,Male,22,3.6,66,55,43,Needs Improvement
+271,Female,20,2.2,100,70,65,Good
+272,Female,19,4.5,90,86,82,Excellent
+273,Female,19,0.8,82,62,46,Needs Improvement
+274,Female,18,3.3,79,63,48,Needs Improvement
+275,Male,19,2.8,76,66,54,Needs Improvement
+276,Female,20,4.1,62,64,52,Needs Improvement
+277,Male,19,4.1,65,77,64,Good
+278,Female,22,6.2,100,45,58,Needs Improvement
+279,Male,18,7.4,98,93,81,Excellent
+280,Female,20,2.5,76,57,50,Needs Improvement
+281,Female,18,8.1,91,40,51,Needs Improvement
+282,Female,20,3.1,87,70,64,Good
+283,Female,22,4.8,88,65,69,Good
+284,Male,18,5.4,68,68,53,Needs Improvement
+285,Female,21,8.9,64,74,61,Good
+286,Male,20,3.5,94,79,64,Good
+287,Male,21,1.3,62,94,56,Needs Improvement
+288,Male,18,7.2,81,60,56,Needs Improvement
+289,Male,21,3.0,78,81,56,Needs Improvement
+290,Female,21,3.8,77,80,63,Good
+291,Male,18,2.5,85,35,39,Needs Improvement
+292,Male,22,3.9,75,58,55,Needs Improvement
+293,Male,21,3.0,86,52,48,Needs Improvement
+294,Female,21,5.7,83,76,61,Good
+295,Female,22,4.6,100,75,68,Good
+296,Female,21,3.3,68,75,53,Needs Improvement
+297,Female,21,6.3,82,66,66,Good
+298,Male,21,5.0,86,67,54,Needs Improvement
+299,Male,19,1.2,79,70,43,Needs Improvement
+300,Female,22,6.2,69,64,51,Needs Improvement
+301,Male,21,4.8,95,81,68,Good
+302,Male,22,7.0,85,55,59,Needs Improvement
+303,Male,20,4.7,69,59,55,Needs Improvement
+304,Female,20,3.1,86,72,57,Needs Improvement
+305,Female,21,4.1,99,65,58,Needs Improvement
+306,Male,22,5.9,82,54,64,Good
+307,Female,22,3.1,82,77,68,Good
+308,Female,22,3.7,98,62,64,Good
+309,Female,19,4.1,72,58,54,Needs Improvement
+310,Female,20,2.4,99,68,62,Good
+311,Female,22,3.1,92,57,50,Needs Improvement
+312,Male,22,4.8,73,70,61,Good
+313,Female,19,6.7,75,65,58,Needs Improvement
+314,Male,19,5.1,77,63,53,Needs Improvement
+315,Male,22,4.4,64,63,46,Needs Improvement
+316,Female,18,3.0,85,84,68,Good
+317,Male,22,6.5,73,75,67,Good
+318,Male,22,5.3,85,46,51,Needs Improvement
+319,Male,19,3.2,69,82,59,Needs Improvement
+320,Female,19,6.1,91,77,61,Good
+321,Female,22,5.5,89,76,69,Good
+322,Male,22,3.0,75,82,61,Good
+323,Female,22,4.3,86,70,66,Good
+324,Female,19,3.6,83,79,65,Good
+325,Female,22,9.2,97,63,75,Good
+326,Female,22,5.5,72,82,67,Good
+327,Male,21,4.8,80,73,64,Good
+328,Male,18,5.4,76,51,58,Needs Improvement
+329,Female,20,7.0,82,85,73,Good
+330,Female,18,4.3,87,68,64,Good
+331,Male,21,3.4,75,66,53,Needs Improvement
+332,Male,20,6.0,78,64,60,Good
+333,Female,22,4.2,92,65,69,Good
+334,Male,21,2.6,96,73,65,Good
+335,Female,22,2.2,87,56,48,Needs Improvement
+336,Female,19,7.3,81,48,59,Needs Improvement
+337,Male,21,4.7,80,55,48,Needs Improvement
+338,Male,19,3.4,87,75,62,Good
+339,Female,21,4.1,84,68,55,Needs Improvement
+340,Female,21,6.0,66,86,71,Good
+341,Male,19,4.0,88,69,60,Good
+342,Female,20,1.9,73,82,61,Good
+343,Male,18,5.1,68,60,59,Needs Improvement
+344,Female,22,6.7,65,64,57,Needs Improvement
+345,Male,21,6.6,80,70,64,Good
+346,Male,22,3.5,72,68,56,Needs Improvement
+347,Male,19,6.8,59,67,56,Needs Improvement
+348,Female,22,4.9,78,58,56,Needs Improvement
+349,Female,19,6.7,77,48,55,Needs Improvement
+350,Male,22,5.5,81,79,69,Good
+351,Female,18,1.8,76,77,60,Good
+352,Male,18,7.6,100,61,60,Good
+353,Male,18,4.6,87,75,59,Needs Improvement
+354,Female,18,5.5,77,68,56,Needs Improvement
+355,Female,18,2.1,81,85,64,Good
+356,Male,18,5.4,96,52,57,Needs Improvement
+357,Female,19,6.5,92,68,56,Needs Improvement
+358,Female,21,8.0,68,67,74,Good
+359,Male,22,7.0,72,72,56,Needs Improvement
+360,Male,18,5.5,74,92,73,Good
+361,Female,19,1.7,78,68,56,Needs Improvement
+362,Male,19,4.7,76,80,62,Good
+363,Male,19,3.4,82,68,61,Good
+364,Female,21,4.9,89,85,66,Good
+365,Male,22,2.3,91,81,65,Good
+366,Male,21,4.1,79,65,47,Needs Improvement
+367,Female,20,3.6,66,64,59,Needs Improvement
+368,Female,19,3.5,72,77,61,Good
+369,Male,20,3.5,77,61,46,Needs Improvement
+370,Male,18,4.3,70,73,63,Good
+371,Female,18,5.0,93,65,71,Good
+372,Female,21,0.5,70,75,48,Needs Improvement
+373,Female,22,0.5,88,68,52,Needs Improvement
+374,Female,20,3.9,65,60,49,Needs Improvement
+375,Male,22,4.1,89,85,66,Good
+376,Female,21,4.8,81,73,59,Needs Improvement
+377,Female,18,3.2,97,69,58,Needs Improvement
+378,Male,22,4.5,71,76,59,Needs Improvement
+379,Female,22,4.7,76,47,48,Needs Improvement
+380,Male,18,3.2,78,99,70,Good
+381,Female,20,6.3,80,70,69,Good
+382,Female,18,4.8,79,43,52,Needs Improvement
+383,Female,22,5.5,79,87,64,Good
+384,Male,20,4.6,79,59,53,Needs Improvement
+385,Male,20,8.3,61,85,79,Good
+386,Female,18,5.6,92,72,69,Good
+387,Male,22,3.6,100,48,55,Needs Improvement
+388,Male,21,6.0,85,74,69,Good
+389,Male,22,1.6,71,73,53,Needs Improvement
+390,Male,19,4.7,72,86,67,Good
+391,Male,21,5.1,88,77,66,Good
+392,Male,20,4.7,86,53,59,Needs Improvement
+393,Female,21,3.9,79,84,64,Good
+394,Female,20,2.7,90,64,56,Needs Improvement
+395,Male,20,3.1,61,94,69,Good
+396,Female,21,4.7,90,65,60,Good
+397,Female,20,2.5,84,67,56,Needs Improvement
+398,Female,20,7.7,72,58,59,Needs Improvement
+399,Female,19,0.5,68,63,46,Needs Improvement
+400,Male,22,3.9,83,59,54,Needs Improvement
+401,Female,22,4.7,96,86,70,Good
+402,Female,19,5.4,80,51,50,Needs Improvement
+403,Male,21,2.9,73,81,60,Good
+404,Male,18,6.5,84,82,77,Good
+405,Female,18,2.0,100,89,72,Good
+406,Female,18,3.5,86,71,53,Needs Improvement
+407,Female,19,5.6,87,56,56,Needs Improvement
+408,Female,19,6.4,94,68,64,Good
+409,Female,20,2.0,87,78,53,Needs Improvement
+410,Female,18,9.3,74,71,72,Good
+411,Male,21,2.9,65,75,56,Needs Improvement
+412,Female,21,2.1,73,89,74,Good
+413,Female,18,5.4,71,78,63,Good
+414,Male,18,3.9,89,73,59,Needs Improvement
+415,Male,18,3.6,90,44,44,Needs Improvement
+416,Male,19,5.6,84,59,57,Needs Improvement
+417,Male,19,1.8,69,64,53,Needs Improvement
+418,Female,19,1.4,100,42,49,Needs Improvement
+419,Female,22,3.4,78,54,65,Good
+420,Female,21,6.4,88,66,59,Needs Improvement
+421,Female,21,3.5,82,69,59,Needs Improvement
+422,Female,20,7.4,84,77,68,Good
+423,Female,19,6.7,88,67,68,Good
+424,Male,22,5.0,75,73,69,Good
+425,Female,22,5.1,95,64,67,Good
+426,Male,21,5.0,66,71,54,Needs Improvement
+427,Male,19,4.8,72,76,66,Good
+428,Female,20,3.8,95,91,62,Good
+429,Male,19,4.0,88,63,47,Needs Improvement
+430,Female,18,2.6,100,72,61,Good
+431,Male,19,0.5,83,82,62,Good
+432,Female,18,6.5,99,50,62,Good
+433,Male,18,4.8,63,98,81,Excellent
+434,Female,20,4.5,68,87,67,Good
+435,Female,21,5.2,91,46,53,Needs Improvement
+436,Female,19,3.0,65,75,63,Good
+437,Female,18,2.7,80,62,51,Needs Improvement
+438,Female,19,4.0,94,64,62,Good
+439,Male,21,7.0,87,75,73,Good
+440,Male,21,2.4,82,85,59,Needs Improvement
+441,Male,22,0.5,78,63,50,Needs Improvement
+442,Female,21,3.6,84,64,68,Good
+443,Male,20,6.6,88,75,76,Good
+444,Female,18,1.4,75,78,53,Needs Improvement
+445,Female,22,2.4,86,56,63,Good
+446,Male,20,5.0,93,94,80,Excellent
+447,Male,19,9.1,80,61,69,Good
+448,Female,18,2.1,83,84,63,Good
+449,Male,21,2.0,87,76,63,Good
+450,Female,18,5.1,88,78,69,Good
+451,Female,19,6.7,91,61,64,Good
+452,Female,22,3.4,72,46,45,Needs Improvement
+453,Female,22,1.6,77,70,59,Needs Improvement
+454,Female,22,5.3,77,70,67,Good
+455,Male,21,5.6,73,57,55,Needs Improvement
+456,Male,20,7.7,64,83,63,Good
+457,Female,20,5.7,50,69,57,Needs Improvement
+458,Female,18,6.0,94,59,59,Needs Improvement
+459,Male,21,4.0,66,78,58,Needs Improvement
+460,Male,22,8.9,98,79,78,Good
+461,Female,22,3.8,89,60,51,Needs Improvement
+462,Male,19,3.4,78,87,58,Needs Improvement
+463,Female,19,7.8,88,100,86,Excellent
+464,Male,22,1.8,86,55,49,Needs Improvement
+465,Female,22,1.2,71,67,50,Needs Improvement
+466,Male,21,4.7,82,75,67,Good
+467,Female,20,4.5,72,100,70,Good
+468,Male,19,4.1,89,60,59,Needs Improvement
+469,Male,20,6.3,75,57,64,Good
+470,Female,21,2.9,81,57,50,Needs Improvement
+471,Male,22,4.6,81,87,79,Good
+472,Female,20,3.9,83,60,56,Needs Improvement
+473,Male,22,2.9,99,58,52,Needs Improvement
+474,Female,22,4.4,80,73,67,Good
+475,Male,18,6.0,94,74,69,Good
+476,Female,20,8.3,87,85,83,Excellent
+477,Male,20,5.5,96,71,69,Good
+478,Female,22,0.5,79,73,52,Needs Improvement
+479,Male,21,4.4,89,69,70,Good
+480,Female,18,4.6,81,52,50,Needs Improvement
+481,Female,22,6.2,52,67,46,Needs Improvement
+482,Female,19,4.8,71,71,65,Good
+483,Male,19,6.8,88,64,67,Good
+484,Female,18,5.2,87,48,60,Good
+485,Male,21,7.3,69,54,53,Needs Improvement
+486,Female,22,3.7,84,69,59,Needs Improvement
+487,Male,20,4.8,87,83,68,Good
+488,Female,18,6.0,82,94,81,Excellent
+489,Male,21,3.5,89,67,63,Good
+490,Male,20,3.1,88,60,56,Needs Improvement
+491,Female,19,3.4,82,65,58,Needs Improvement
+492,Male,19,3.2,77,55,45,Needs Improvement
+493,Male,20,5.4,92,81,75,Good
+494,Female,18,1.2,87,100,74,Good
+495,Male,19,1.7,68,60,59,Needs Improvement
+496,Male,22,7.9,84,53,64,Good
+497,Male,20,3.2,70,84,66,Good
+498,Female,20,4.9,72,74,65,Good
+499,Male,19,1.8,75,75,53,Needs Improvement
+500,Female,18,4.7,82,92,79,Good
+501,Male,22,3.2,86,51,50,Needs Improvement
+502,Male,18,1.7,78,50,44,Needs Improvement
+503,Male,21,6.9,78,68,64,Good
+504,Female,21,6.6,77,71,65,Good
+505,Male,19,4.3,92,65,58,Needs Improvement
+506,Male,19,6.3,53,100,75,Good
+507,Female,19,7.9,79,66,66,Good
+508,Male,21,5.9,97,62,63,Good
+509,Female,18,5.4,87,72,68,Good
+510,Female,18,4.9,95,84,72,Good
+511,Male,19,5.7,62,60,52,Needs Improvement
+512,Female,22,3.8,70,68,53,Needs Improvement
+513,Male,18,4.0,87,84,69,Good
+514,Female,21,5.3,98,85,70,Good
+515,Female,20,3.6,71,73,54,Needs Improvement
+516,Male,20,3.8,78,100,69,Good
+517,Female,20,4.5,86,98,77,Good
+518,Female,22,6.6,67,50,59,Needs Improvement
+519,Female,19,2.5,87,46,48,Needs Improvement
+520,Female,21,5.9,55,81,68,Good
+521,Female,22,5.9,87,89,74,Good
+522,Male,21,5.9,72,67,62,Good
+523,Female,21,3.0,78,63,62,Good
+524,Male,19,1.5,89,59,55,Needs Improvement
+525,Female,20,5.5,86,54,62,Good
+526,Male,19,4.8,82,86,69,Good
+527,Male,22,6.3,92,65,65,Good
+528,Female,22,3.2,65,74,59,Needs Improvement
+529,Female,22,5.9,84,44,50,Needs Improvement
+530,Female,19,6.4,74,84,59,Needs Improvement
+531,Male,21,4.3,91,78,69,Good
+532,Female,21,5.3,89,51,61,Good
+533,Male,18,5.2,89,74,67,Good
+534,Male,22,3.0,98,70,59,Needs Improvement
+535,Male,21,5.5,93,64,62,Good
+536,Female,18,7.4,80,35,41,Needs Improvement
+537,Female,21,4.5,82,61,56,Needs Improvement
+538,Male,22,1.9,88,74,53,Needs Improvement
+539,Male,20,3.3,83,62,52,Needs Improvement
+540,Female,22,1.3,89,67,49,Needs Improvement
+541,Male,19,6.8,60,91,65,Good
+542,Female,21,5.9,100,69,63,Good
+543,Male,21,3.6,83,41,49,Needs Improvement
+544,Female,19,1.9,66,67,48,Needs Improvement
+545,Male,19,3.0,73,71,51,Needs Improvement
+546,Female,20,3.4,61,58,53,Needs Improvement
+547,Male,21,4.7,71,80,65,Good
+548,Female,21,4.6,81,50,40,Needs Improvement
+549,Female,20,6.9,97,68,74,Good
+550,Male,18,3.3,86,49,50,Needs Improvement
+551,Male,20,1.8,84,66,58,Needs Improvement
+552,Female,22,2.4,71,80,58,Needs Improvement
+553,Male,21,4.5,74,68,67,Good
+554,Female,19,3.2,75,67,54,Needs Improvement
+555,Male,22,4.0,75,70,46,Needs Improvement
+556,Female,21,3.7,78,71,55,Needs Improvement
+557,Female,20,6.3,79,80,72,Good
+558,Female,22,3.4,79,80,64,Good
+559,Female,21,3.8,75,90,67,Good
+560,Female,18,5.8,83,72,61,Good
+561,Female,18,3.5,79,47,48,Needs Improvement
+562,Male,19,5.3,66,82,65,Good
+563,Male,21,5.1,82,89,72,Good
+564,Male,18,4.8,81,100,79,Good
+565,Female,20,2.5,66,90,64,Good
+566,Female,21,6.7,76,63,60,Good
+567,Female,20,8.5,88,73,68,Good
+568,Female,20,4.5,71,66,64,Good
+569,Male,18,2.6,70,64,62,Good
+570,Male,21,4.6,79,68,69,Good
+571,Female,22,6.3,88,88,79,Good
+572,Male,18,3.4,100,48,44,Needs Improvement
+573,Male,18,4.3,89,56,47,Needs Improvement
+574,Female,21,5.1,93,87,71,Good
+575,Male,21,6.7,85,90,76,Good
+576,Female,20,5.9,75,61,58,Needs Improvement
+577,Male,21,6.0,89,93,78,Good
+578,Female,20,3.7,81,84,59,Needs Improvement
+579,Female,18,5.2,86,66,70,Good
+580,Female,19,3.2,73,36,48,Needs Improvement
+581,Female,22,6.0,87,47,48,Needs Improvement
+582,Male,18,6.6,81,61,52,Needs Improvement
+583,Female,21,5.5,84,81,69,Good
+584,Female,22,3.8,81,81,71,Good
+585,Female,19,4.1,79,63,56,Needs Improvement
+586,Male,19,7.8,87,67,70,Good
+587,Female,20,3.9,78,70,57,Needs Improvement
+588,Male,22,6.4,66,67,61,Good
+589,Female,20,5.1,63,72,64,Good
+590,Male,18,3.9,84,70,63,Good
+591,Male,22,2.1,78,47,47,Needs Improvement
+592,Female,18,4.9,65,67,49,Needs Improvement
+593,Male,20,4.7,83,70,73,Good
+594,Female,22,7.8,81,84,67,Good
+595,Female,20,3.0,77,58,52,Needs Improvement
+596,Female,22,8.6,84,73,72,Good
+597,Male,20,5.2,95,78,69,Good
+598,Male,19,5.2,95,68,69,Good
+599,Female,20,3.4,83,45,44,Needs Improvement
+600,Female,19,5.1,81,84,67,Good
+601,Male,20,5.4,84,80,63,Good
+602,Female,22,6.2,85,73,73,Good
+603,Female,22,2.7,79,71,59,Needs Improvement
+604,Female,22,7.0,84,45,59,Needs Improvement
+605,Male,21,5.2,66,81,69,Good
+606,Male,18,5.6,83,91,84,Excellent
+607,Male,22,4.1,87,54,63,Good
+608,Female,19,2.8,77,89,67,Good
+609,Female,22,4.6,81,86,70,Good
+610,Female,21,4.8,71,54,49,Needs Improvement
+611,Male,19,2.0,69,64,54,Needs Improvement
+612,Female,21,5.9,84,50,59,Needs Improvement
+613,Female,19,6.3,75,69,60,Good
+614,Female,20,3.2,64,76,61,Good
+615,Female,18,2.7,71,52,52,Needs Improvement
+616,Male,18,4.0,72,75,55,Needs Improvement
+617,Male,21,4.5,90,79,69,Good
+618,Female,18,4.0,84,79,65,Good
+619,Male,21,4.4,73,76,62,Good
+620,Male,21,4.9,76,53,48,Needs Improvement
+621,Female,21,2.0,95,68,49,Needs Improvement
+622,Female,18,2.2,91,75,57,Needs Improvement
+623,Male,21,0.5,71,90,55,Needs Improvement
+624,Female,18,6.2,94,70,70,Good
+625,Male,21,4.5,81,76,66,Good
+626,Female,22,6.4,90,57,63,Good
+627,Male,21,2.5,80,54,42,Needs Improvement
+628,Female,19,4.5,94,52,50,Needs Improvement
+629,Male,21,4.9,70,64,54,Needs Improvement
+630,Male,20,3.5,79,99,73,Good
+631,Male,21,1.7,94,64,53,Needs Improvement
+632,Female,19,7.6,58,75,67,Good
+633,Male,19,7.0,82,78,76,Good
+634,Male,18,3.8,78,55,47,Needs Improvement
+635,Female,22,5.4,89,64,57,Needs Improvement
+636,Female,21,3.6,93,79,67,Good
+637,Male,18,2.7,89,76,62,Good
+638,Male,22,7.8,84,42,60,Good
+639,Female,21,1.5,82,78,59,Needs Improvement
+640,Female,20,4.0,79,62,65,Good
+641,Female,21,4.7,84,63,51,Needs Improvement
+642,Female,19,7.5,97,76,79,Good
+643,Female,19,6.1,74,91,74,Good
+644,Male,20,1.5,78,67,46,Needs Improvement
+645,Female,18,4.5,81,87,59,Needs Improvement
+646,Male,22,4.5,92,50,49,Needs Improvement
+647,Male,21,4.1,84,72,68,Good
+648,Male,19,5.6,92,62,68,Good
+649,Female,18,2.0,92,74,60,Good
+650,Male,20,3.8,88,66,58,Needs Improvement
+651,Male,19,5.4,71,51,48,Needs Improvement
+652,Female,20,5.7,99,58,61,Good
+653,Male,21,4.8,96,47,52,Needs Improvement
+654,Male,22,4.0,83,52,61,Good
+655,Female,19,4.3,68,77,55,Needs Improvement
+656,Male,19,5.8,66,66,61,Good
+657,Male,21,4.6,85,73,73,Good
+658,Male,18,2.6,75,95,72,Good
+659,Female,22,2.3,65,66,45,Needs Improvement
+660,Female,19,1.8,66,79,49,Needs Improvement
+661,Female,22,7.1,77,70,68,Good
+662,Male,19,6.0,84,100,80,Excellent
+663,Male,22,4.3,96,35,54,Needs Improvement
+664,Female,20,3.7,87,60,59,Needs Improvement
+665,Male,19,3.5,78,79,60,Good
+666,Male,22,6.5,86,59,59,Needs Improvement
+667,Female,18,7.9,85,78,67,Good
+668,Female,20,3.4,89,69,61,Good
+669,Male,20,6.5,82,82,65,Good
+670,Male,18,4.6,92,54,61,Good
+671,Male,22,4.1,90,72,66,Good
+672,Female,21,7.2,83,77,74,Good
+673,Female,18,4.5,81,72,56,Needs Improvement
+674,Female,22,5.0,91,72,65,Good
+675,Female,18,4.9,75,87,67,Good
+676,Male,18,1.6,67,46,41,Needs Improvement
+677,Female,19,5.0,67,72,63,Good
+678,Female,22,3.5,74,53,47,Needs Improvement
+679,Female,21,1.9,89,81,60,Good
+680,Female,19,3.6,78,58,56,Needs Improvement
+681,Female,18,3.6,84,35,38,Needs Improvement
+682,Male,18,6.4,77,81,66,Good
+683,Male,18,2.6,77,66,54,Needs Improvement
+684,Female,22,3.1,72,75,63,Good
+685,Male,22,4.9,81,90,67,Good
+686,Female,19,2.1,80,75,67,Good
+687,Female,21,3.3,86,72,54,Needs Improvement
+688,Male,19,1.5,85,69,63,Good
+689,Male,20,6.2,80,54,63,Good
+690,Female,18,4.0,67,67,49,Needs Improvement
+691,Female,18,4.5,93,98,69,Good
+692,Female,18,6.1,81,65,66,Good
+693,Male,19,3.2,83,68,56,Needs Improvement
+694,Female,19,3.9,98,88,67,Good
+695,Female,18,2.6,91,48,58,Needs Improvement
+696,Female,19,2.6,86,79,57,Needs Improvement
+697,Male,22,2.8,82,48,44,Needs Improvement
+698,Female,22,3.6,82,76,59,Needs Improvement
+699,Female,19,3.8,84,70,46,Needs Improvement
+700,Male,18,5.0,86,79,68,Good
+701,Female,19,2.9,99,56,50,Needs Improvement
+702,Female,19,5.1,100,63,68,Good
+703,Male,19,5.4,85,79,73,Good
+704,Female,20,3.7,60,63,53,Needs Improvement
+705,Male,22,3.1,72,81,63,Good
+706,Male,21,4.7,100,73,68,Good
+707,Female,21,4.1,89,64,56,Needs Improvement
+708,Female,20,4.9,86,66,58,Needs Improvement
+709,Female,19,7.3,80,70,74,Good
+710,Female,20,4.6,70,67,61,Good
+711,Male,20,3.3,99,80,68,Good
+712,Female,18,2.9,74,65,57,Needs Improvement
+713,Male,22,3.0,89,62,56,Needs Improvement
+714,Female,21,1.9,69,83,60,Good
+715,Female,19,6.2,80,64,65,Good
+716,Female,21,0.5,92,62,41,Needs Improvement
+717,Male,21,5.4,80,35,51,Needs Improvement
+718,Female,22,2.9,78,55,54,Needs Improvement
+719,Female,21,3.6,82,58,50,Needs Improvement
+720,Female,21,2.9,69,62,58,Needs Improvement
+721,Female,20,7.1,67,60,48,Needs Improvement
+722,Male,22,4.5,89,84,72,Good
+723,Female,18,5.9,78,59,59,Needs Improvement
+724,Male,19,6.8,89,60,62,Good
+725,Male,21,4.8,93,72,66,Good
+726,Male,19,2.3,94,55,55,Needs Improvement
+727,Male,18,4.1,66,92,59,Needs Improvement
+728,Male,19,3.2,75,81,67,Good
+729,Male,18,3.6,87,54,51,Needs Improvement
+730,Female,20,4.3,88,84,74,Good
+731,Male,21,4.3,100,87,76,Good
+732,Male,18,5.2,73,54,51,Needs Improvement
+733,Male,19,5.5,94,54,58,Needs Improvement
+734,Female,21,4.3,86,61,58,Needs Improvement
+735,Female,20,5.2,66,50,58,Needs Improvement
+736,Male,21,3.5,77,59,47,Needs Improvement
+737,Female,18,6.9,85,64,62,Good
+738,Male,20,3.5,65,77,51,Needs Improvement
+739,Male,19,6.7,61,71,63,Good
+740,Female,20,1.8,64,68,48,Needs Improvement
+741,Male,20,3.8,85,63,55,Needs Improvement
+742,Female,22,3.9,77,52,58,Needs Improvement
+743,Female,20,5.0,76,78,61,Good
+744,Male,20,6.1,76,78,67,Good
+745,Male,21,2.3,68,61,47,Needs Improvement
+746,Female,19,2.5,77,55,47,Needs Improvement
+747,Male,21,2.0,64,92,76,Good
+748,Male,21,6.9,94,73,62,Good
+749,Male,18,5.0,99,76,72,Good
+750,Female,21,2.5,59,76,67,Good
+751,Female,22,3.7,77,53,56,Needs Improvement
+752,Male,22,6.6,78,91,76,Good
+753,Female,18,4.0,80,64,51,Needs Improvement
+754,Female,19,3.9,92,82,75,Good
+755,Female,19,3.1,77,90,72,Good
+756,Female,21,2.7,81,71,50,Needs Improvement
+757,Female,21,6.6,100,53,60,Good
+758,Male,21,7.5,81,35,45,Needs Improvement
+759,Male,19,2.7,100,69,47,Needs Improvement
+760,Male,20,7.0,87,74,64,Good
+761,Female,22,3.6,76,62,55,Needs Improvement
+762,Female,20,5.5,75,72,66,Good
+763,Male,20,7.0,82,76,68,Good
+764,Female,19,4.2,71,84,72,Good
+765,Male,20,3.9,73,67,62,Good
+766,Male,18,5.9,78,69,63,Good
+767,Male,21,2.5,85,67,55,Needs Improvement
+768,Female,18,6.6,100,70,72,Good
+769,Female,22,4.8,77,63,58,Needs Improvement
+770,Male,21,3.5,87,63,50,Needs Improvement
+771,Male,20,3.4,66,64,51,Needs Improvement
+772,Male,22,2.0,93,72,63,Good
+773,Male,21,3.5,65,58,56,Needs Improvement
+774,Female,20,4.0,90,64,64,Good
+775,Female,18,2.6,81,95,71,Good
+776,Male,21,4.4,81,83,75,Good
+777,Male,20,5.4,79,57,59,Needs Improvement
+778,Female,18,4.1,69,82,63,Good
+779,Female,22,5.7,70,79,73,Good
+780,Male,22,3.0,90,69,63,Good
+781,Male,22,6.3,82,60,67,Good
+782,Male,22,4.7,79,58,50,Needs Improvement
+783,Female,19,7.3,86,73,66,Good
+784,Female,21,8.8,83,58,61,Good
+785,Female,21,3.7,74,85,66,Good
+786,Male,19,3.7,100,89,82,Excellent
+787,Male,20,4.1,89,69,56,Needs Improvement
+788,Female,20,5.6,83,86,76,Good
+789,Female,22,6.9,77,64,57,Needs Improvement
+790,Male,18,3.3,92,60,67,Good
+791,Female,20,5.2,74,85,61,Good
+792,Female,18,4.3,73,92,73,Good
+793,Male,21,5.6,99,97,85,Excellent
+794,Female,18,7.2,82,75,73,Good
+795,Male,21,4.1,74,82,60,Good
+796,Male,19,1.5,82,74,52,Needs Improvement
+797,Male,19,5.8,91,90,82,Excellent
+798,Male,22,3.0,88,76,68,Good
+799,Male,20,4.2,92,81,74,Good
+800,Male,22,5.9,70,54,60,Good
+801,Male,21,5.0,91,67,55,Needs Improvement
+802,Female,22,4.3,80,81,58,Needs Improvement
+803,Male,18,3.5,83,80,61,Good
+804,Male,21,0.5,94,83,59,Needs Improvement
+805,Female,19,5.8,89,72,64,Good
+806,Female,20,4.0,86,61,58,Needs Improvement
+807,Female,21,7.2,62,69,68,Good
+808,Male,21,5.2,82,71,62,Good
+809,Female,18,3.5,74,73,55,Needs Improvement
+810,Male,20,6.4,89,56,65,Good
+811,Male,19,6.6,92,66,65,Good
+812,Male,21,4.1,79,69,60,Good
+813,Male,21,6.6,75,39,48,Needs Improvement
+814,Female,18,3.5,98,82,70,Good
+815,Female,22,4.8,76,72,57,Needs Improvement
+816,Male,19,5.5,70,74,67,Good
+817,Male,20,5.9,74,63,59,Needs Improvement
+818,Male,21,5.6,76,78,63,Good
+819,Female,21,3.9,73,58,55,Needs Improvement
+820,Male,19,6.5,90,61,60,Good
+821,Male,22,4.3,60,79,57,Needs Improvement
+822,Female,21,3.5,73,75,54,Needs Improvement
+823,Female,19,3.5,82,52,42,Needs Improvement
+824,Male,18,8.0,84,92,83,Excellent
+825,Female,22,3.2,99,59,63,Good
+826,Female,20,6.8,97,68,67,Good
+827,Male,21,2.5,66,94,61,Good
+828,Female,19,5.4,63,41,36,Needs Improvement
+829,Male,18,5.0,82,46,40,Needs Improvement
+830,Female,20,7.4,75,76,73,Good
+831,Male,19,3.3,70,35,35,Needs Improvement
+832,Male,19,2.8,82,41,38,Needs Improvement
+833,Male,20,4.3,84,86,71,Good
+834,Female,18,7.5,74,64,64,Good
+835,Male,18,2.9,76,100,73,Good
+836,Female,22,0.5,74,56,44,Needs Improvement
+837,Male,21,4.6,78,66,57,Needs Improvement
+838,Male,20,6.2,87,78,65,Good
+839,Female,20,2.7,71,77,55,Needs Improvement
+840,Male,20,6.0,76,66,60,Good
+841,Male,18,2.6,78,61,43,Needs Improvement
+842,Female,21,4.2,82,73,58,Needs Improvement
+843,Male,22,5.9,85,89,73,Good
+844,Male,19,2.4,100,81,63,Good
+845,Male,19,4.8,88,61,57,Needs Improvement
+846,Male,20,6.7,88,56,64,Good
+847,Female,21,5.4,79,60,62,Good
+848,Female,18,3.2,72,52,55,Needs Improvement
+849,Male,21,7.2,77,72,60,Good
+850,Female,21,5.7,75,81,66,Good
+851,Male,18,1.2,86,69,61,Good
+852,Female,20,6.1,65,94,64,Good
+853,Male,21,3.5,88,95,67,Good
+854,Male,19,4.9,81,74,61,Good
+855,Male,18,6.3,89,80,82,Excellent
+856,Male,22,3.5,75,57,47,Needs Improvement
+857,Male,20,1.5,73,65,56,Needs Improvement
+858,Male,18,7.2,78,88,75,Good
+859,Female,22,6.6,78,62,56,Needs Improvement
+860,Male,22,4.3,90,91,87,Excellent
+861,Female,21,6.0,90,86,75,Good
+862,Male,21,3.8,100,81,71,Good
+863,Female,21,4.7,77,54,56,Needs Improvement
+864,Female,18,4.2,50,66,54,Needs Improvement
+865,Female,18,3.9,78,79,74,Good
+866,Male,20,5.1,84,56,66,Good
+867,Male,21,2.3,89,67,52,Needs Improvement
+868,Female,22,4.0,85,81,76,Good
+869,Male,19,5.1,77,62,54,Needs Improvement
+870,Female,20,7.8,99,58,68,Good
+871,Male,18,2.4,72,45,35,Needs Improvement
+872,Female,20,5.4,79,65,66,Good
+873,Female,20,5.6,71,81,65,Good
+874,Male,20,1.1,82,58,43,Needs Improvement
+875,Female,20,5.2,98,70,73,Good
+876,Male,19,6.1,81,67,71,Good
+877,Female,21,5.6,81,61,67,Good
+878,Female,22,4.3,65,82,56,Needs Improvement
+879,Male,20,5.1,79,93,81,Excellent
+880,Male,20,4.8,94,84,70,Good
+881,Male,20,1.5,79,60,60,Good
+882,Female,21,4.8,79,98,78,Good
+883,Male,18,3.8,93,84,70,Good
+884,Female,18,3.2,79,64,55,Needs Improvement
+885,Female,19,9.0,95,59,69,Good
+886,Male,18,6.8,69,86,68,Good
+887,Male,20,2.4,89,72,54,Needs Improvement
+888,Female,20,5.1,98,58,59,Needs Improvement
+889,Female,20,7.1,92,68,74,Good
+890,Male,19,1.8,63,64,42,Needs Improvement
+891,Male,20,4.6,76,58,61,Good
+892,Male,18,4.7,80,84,69,Good
+893,Male,21,2.2,92,81,68,Good
+894,Male,21,5.2,69,82,70,Good
+895,Female,22,6.5,72,82,74,Good
+896,Female,18,7.2,66,57,58,Needs Improvement
+897,Female,20,4.1,74,62,55,Needs Improvement
+898,Female,21,9.0,69,90,83,Excellent
+899,Male,18,0.8,98,72,53,Needs Improvement
+900,Male,21,5.1,76,49,45,Needs Improvement
+901,Male,20,2.0,89,73,57,Needs Improvement
+902,Female,21,4.7,82,79,68,Good
+903,Female,22,3.6,82,77,73,Good
+904,Male,22,5.4,76,57,56,Needs Improvement
+905,Male,21,4.3,90,96,85,Excellent
+906,Female,18,3.0,84,49,51,Needs Improvement
+907,Female,18,3.1,83,72,57,Needs Improvement
+908,Male,18,8.0,76,94,85,Excellent
+909,Male,21,5.3,78,78,65,Good
+910,Female,18,1.4,88,82,63,Good
+911,Male,20,5.5,84,55,50,Needs Improvement
+912,Male,22,4.1,83,75,56,Needs Improvement
+913,Male,20,4.5,74,69,62,Good
+914,Female,18,6.0,100,54,67,Good
+915,Female,20,6.6,77,82,81,Excellent
+916,Female,18,3.0,82,59,49,Needs Improvement
+917,Female,21,4.4,80,60,63,Good
+918,Female,20,3.5,100,76,73,Good
+919,Female,21,5.6,79,68,60,Good
+920,Female,21,4.1,78,72,68,Good
+921,Male,19,4.6,83,67,65,Good
+922,Male,18,4.0,75,90,74,Good
+923,Male,22,4.3,83,57,66,Good
+924,Male,18,7.6,100,63,74,Good
+925,Male,22,8.8,85,77,64,Good
+926,Male,18,5.2,85,56,59,Needs Improvement
+927,Male,21,4.3,75,56,45,Needs Improvement
+928,Female,20,1.6,99,72,61,Good
+929,Female,20,3.1,100,82,69,Good
+930,Male,19,4.3,91,84,67,Good
+931,Male,22,3.2,89,71,56,Needs Improvement
+932,Female,22,3.4,80,61,52,Needs Improvement
+933,Male,22,7.3,86,74,69,Good
+934,Male,21,4.6,74,78,63,Good
+935,Female,22,4.7,71,74,62,Good
+936,Male,20,3.3,67,87,67,Good
+937,Female,21,6.6,86,56,59,Needs Improvement
+938,Male,18,4.1,68,60,59,Needs Improvement
+939,Female,22,3.6,77,85,65,Good
+940,Female,22,1.7,81,49,50,Needs Improvement
+941,Female,18,4.4,92,62,58,Needs Improvement
+942,Male,22,3.5,76,60,67,Good
+943,Female,18,7.5,93,48,62,Good
+944,Male,21,7.8,91,67,78,Good
+945,Male,20,2.3,71,80,56,Needs Improvement
+946,Male,18,2.5,93,72,58,Needs Improvement
+947,Male,19,4.0,79,81,64,Good
+948,Female,18,3.0,77,87,78,Good
+949,Female,22,4.9,79,65,58,Needs Improvement
+950,Male,21,3.9,82,100,71,Good
+951,Male,21,5.0,78,65,66,Good
+952,Female,18,6.3,74,67,63,Good
+953,Male,20,2.6,74,60,50,Needs Improvement
+954,Female,19,6.3,83,78,67,Good
+955,Male,21,3.2,80,66,59,Needs Improvement
+956,Male,22,8.4,87,69,76,Good
+957,Female,22,7.4,83,67,71,Good
+958,Male,20,4.3,83,67,57,Needs Improvement
+959,Female,21,2.8,88,72,55,Needs Improvement
+960,Male,18,2.4,96,64,37,Needs Improvement
+961,Male,22,6.1,97,64,61,Good
+962,Male,20,4.4,95,85,70,Good
+963,Female,21,6.2,91,66,65,Good
+964,Male,21,8.5,100,75,75,Good
+965,Male,21,3.1,86,58,68,Good
+966,Male,21,2.3,85,64,57,Needs Improvement
+967,Male,21,4.8,100,53,52,Needs Improvement
+968,Female,22,6.6,55,96,76,Good
+969,Female,20,2.8,80,89,68,Good
+970,Male,21,4.6,95,78,63,Good
+971,Female,19,7.0,92,100,85,Excellent
+972,Male,19,1.6,100,81,67,Good
+973,Male,20,4.9,83,68,67,Good
+974,Male,18,3.5,78,75,52,Needs Improvement
+975,Female,18,4.7,79,89,74,Good
+976,Female,18,5.8,85,58,66,Good
+977,Female,19,4.9,98,54,68,Good
+978,Female,18,2.7,98,76,58,Needs Improvement
+979,Female,22,3.6,81,62,55,Needs Improvement
+980,Female,21,7.1,85,38,52,Needs Improvement
+981,Female,19,5.1,76,53,57,Needs Improvement
+982,Female,20,6.0,77,66,61,Good
+983,Female,20,5.0,92,71,62,Good
+984,Male,21,6.0,98,71,70,Good
+985,Female,19,3.8,75,98,70,Good
+986,Female,18,3.1,84,67,60,Good
+987,Female,18,5.9,80,74,62,Good
+988,Female,22,6.5,91,47,52,Needs Improvement
+989,Female,22,2.9,78,70,64,Good
+990,Female,18,3.5,63,75,69,Good
+991,Female,20,4.2,92,51,63,Good
+992,Female,20,7.4,79,57,61,Good
+993,Female,22,5.5,80,77,72,Good
+994,Female,21,2.1,86,62,50,Needs Improvement
+995,Female,18,4.3,86,69,64,Good
+996,Male,22,4.1,87,78,63,Good
+997,Male,22,2.4,66,99,74,Good
+998,Female,18,4.3,88,67,67,Good
+999,Female,18,4.0,63,95,79,Good
+1000,Male,20,3.8,90,43,48,Needs Improvement
+1001,Female,21,3.8,93,72,71,Good
+1002,Male,21,7.1,68,65,64,Good
+1003,Male,18,3.8,85,63,58,Needs Improvement
+1004,Male,19,4.6,93,79,70,Good
+1005,Male,22,4.4,78,67,67,Good
+1006,Male,22,3.6,89,42,47,Needs Improvement
+1007,Female,18,4.6,54,48,45,Needs Improvement
+1008,Male,19,4.6,93,80,59,Needs Improvement
+1009,Female,20,4.6,82,47,50,Needs Improvement
+1010,Female,18,3.0,79,80,64,Good
+1011,Male,18,4.1,92,72,60,Good
+1012,Male,22,5.9,99,68,62,Good
+1013,Female,18,4.2,87,69,52,Needs Improvement
+1014,Male,18,4.8,98,77,66,Good
+1015,Male,18,4.8,66,54,58,Needs Improvement
+1016,Female,22,5.3,89,71,58,Needs Improvement
+1017,Female,20,5.5,81,54,60,Good
+1018,Male,20,4.2,74,72,64,Good
+1019,Female,18,2.9,63,79,70,Good
+1020,Male,22,2.3,88,72,64,Good
+1021,Male,20,6.3,91,79,77,Good
+1022,Male,20,5.9,95,60,65,Good
+1023,Female,20,5.7,94,69,66,Good
+1024,Female,22,6.0,74,67,66,Good
+1025,Female,22,4.2,95,66,68,Good
+1026,Female,18,3.4,96,59,58,Needs Improvement
+1027,Female,21,2.7,79,64,60,Good
+1028,Male,20,2.5,82,54,64,Good
+1029,Male,21,6.7,73,46,53,Needs Improvement
+1030,Male,22,3.6,97,60,59,Needs Improvement
+1031,Male,22,6.4,67,79,66,Good
+1032,Female,22,4.2,87,73,64,Good
+1033,Male,21,3.3,76,52,55,Needs Improvement
+1034,Female,22,2.5,71,64,52,Needs Improvement
+1035,Male,18,3.4,63,80,61,Good
+1036,Female,22,7.1,80,64,63,Good
+1037,Female,19,2.5,69,50,47,Needs Improvement
+1038,Male,21,8.3,83,100,82,Excellent
+1039,Male,19,3.0,100,68,55,Needs Improvement
+1040,Male,22,5.8,84,54,59,Needs Improvement
+1041,Male,18,4.2,100,72,76,Good
+1042,Female,20,3.9,72,69,56,Needs Improvement
+1043,Male,22,2.2,69,48,38,Needs Improvement
+1044,Male,18,4.3,72,71,69,Good
+1045,Female,21,2.4,81,84,64,Good
+1046,Male,19,1.5,100,67,62,Good
+1047,Male,19,4.7,65,41,41,Needs Improvement
+1048,Male,19,3.4,88,75,63,Good
+1049,Male,21,7.5,75,78,77,Good
+1050,Male,18,6.3,80,62,62,Good
+1051,Female,21,7.6,69,62,62,Good
+1052,Male,19,3.3,91,100,68,Good
+1053,Male,22,4.7,82,61,62,Good
+1054,Male,20,0.5,93,54,44,Needs Improvement
+1055,Male,21,4.0,84,70,66,Good
+1056,Male,21,4.7,63,78,63,Good
+1057,Female,18,4.8,93,77,69,Good
+1058,Male,18,4.4,62,35,44,Needs Improvement
+1059,Female,21,4.6,63,61,55,Needs Improvement
+1060,Female,19,0.5,73,86,67,Good
+1061,Male,20,5.0,73,75,71,Good
+1062,Male,18,5.4,96,53,52,Needs Improvement
+1063,Male,19,6.9,80,87,74,Good
+1064,Male,22,5.2,94,84,77,Good
+1065,Female,18,4.3,76,66,53,Needs Improvement
+1066,Male,19,6.5,85,82,65,Good
+1067,Male,19,0.5,87,98,63,Good
+1068,Male,20,3.6,89,55,53,Needs Improvement
+1069,Male,20,3.1,77,78,41,Needs Improvement
+1070,Male,22,4.4,78,98,68,Good
+1071,Male,19,0.5,79,79,48,Needs Improvement
+1072,Female,19,6.9,65,59,64,Good
+1073,Female,20,4.1,81,73,67,Good
+1074,Male,18,5.1,78,89,72,Good
+1075,Male,18,4.9,88,56,58,Needs Improvement
+1076,Male,21,6.8,83,70,70,Good
+1077,Female,20,1.1,95,67,50,Needs Improvement
+1078,Male,21,4.7,83,61,64,Good
+1079,Female,20,6.6,76,73,67,Good
+1080,Male,22,4.3,83,69,65,Good
+1081,Male,19,2.8,89,79,68,Good
+1082,Male,22,3.4,64,86,66,Good
+1083,Male,20,3.8,75,52,51,Needs Improvement
+1084,Female,19,3.2,75,71,59,Needs Improvement
+1085,Female,18,4.2,86,69,61,Good
+1086,Male,18,7.2,87,73,72,Good
+1087,Male,21,3.4,83,70,60,Good
+1088,Female,20,3.6,57,56,45,Needs Improvement
+1089,Female,20,5.3,65,90,72,Good
+1090,Female,18,4.2,80,96,74,Good
+1091,Female,22,2.1,77,78,65,Good
+1092,Male,19,4.4,82,78,56,Needs Improvement
+1093,Female,22,4.3,77,72,61,Good
+1094,Male,22,6.3,97,84,72,Good
+1095,Female,18,2.8,59,36,35,Needs Improvement
+1096,Female,18,6.3,85,70,69,Good
+1097,Female,18,4.3,90,62,52,Needs Improvement
+1098,Female,21,2.5,89,72,60,Good
+1099,Female,22,2.1,90,85,65,Good
+1100,Male,20,8.0,91,70,66,Good
+1101,Male,19,4.2,76,65,58,Needs Improvement
+1102,Female,21,6.2,71,50,49,Needs Improvement
+1103,Female,20,1.4,62,68,60,Good
+1104,Male,22,9.2,78,79,81,Excellent
+1105,Female,18,6.1,74,58,58,Needs Improvement
+1106,Female,22,4.0,94,42,47,Needs Improvement
+1107,Male,19,3.9,79,100,76,Good
+1108,Female,21,5.8,72,75,68,Good
+1109,Female,21,5.7,70,67,61,Good
+1110,Male,19,4.8,100,89,70,Good
+1111,Male,20,4.5,82,72,61,Good
+1112,Male,20,5.5,74,89,71,Good
+1113,Female,21,1.4,83,87,65,Good
+1114,Male,21,3.8,100,52,57,Needs Improvement
+1115,Male,18,1.5,78,76,61,Good
+1116,Male,20,5.6,89,94,84,Excellent
+1117,Male,19,3.3,94,56,60,Good
+1118,Male,20,1.7,63,56,47,Needs Improvement
+1119,Male,18,3.1,76,59,46,Needs Improvement
+1120,Female,21,4.8,93,82,76,Good
+1121,Female,21,4.1,75,74,65,Good
+1122,Male,18,2.4,86,43,44,Needs Improvement
+1123,Male,19,1.4,74,75,56,Needs Improvement
+1124,Male,21,4.6,78,66,59,Needs Improvement
+1125,Female,22,3.5,76,68,55,Needs Improvement
+1126,Female,21,4.0,88,58,47,Needs Improvement
+1127,Female,22,4.2,84,75,58,Needs Improvement
+1128,Female,18,5.3,83,85,66,Good
+1129,Female,18,6.0,100,61,55,Needs Improvement
+1130,Female,21,4.8,99,46,49,Needs Improvement
+1131,Female,20,3.9,62,66,60,Good
+1132,Female,22,4.5,78,81,68,Good
+1133,Female,19,3.9,100,64,56,Needs Improvement
+1134,Male,21,1.5,76,49,40,Needs Improvement
+1135,Male,19,6.5,100,81,81,Excellent
+1136,Male,21,6.1,78,90,80,Excellent
+1137,Male,20,8.1,80,70,69,Good
+1138,Female,20,8.6,91,48,68,Good
+1139,Female,20,2.4,81,66,51,Needs Improvement
+1140,Male,20,3.9,87,72,63,Good
+1141,Female,18,9.0,98,59,62,Good
+1142,Male,18,4.4,90,78,65,Good
+1143,Female,22,4.9,83,57,57,Needs Improvement
+1144,Male,19,1.8,99,70,51,Needs Improvement
+1145,Female,21,4.8,91,67,66,Good
+1146,Female,21,8.0,75,79,76,Good
+1147,Male,18,6.8,100,70,76,Good
+1148,Female,21,3.4,88,67,71,Good
+1149,Male,18,3.8,80,59,56,Needs Improvement
+1150,Male,22,2.5,62,70,52,Needs Improvement
+1151,Male,19,3.0,68,66,45,Needs Improvement
+1152,Male,22,1.1,99,58,54,Needs Improvement
+1153,Female,20,4.3,99,72,69,Good
+1154,Female,20,7.2,83,75,63,Good
+1155,Female,20,5.1,64,65,55,Needs Improvement
+1156,Male,22,7.0,71,83,71,Good
+1157,Female,21,6.4,66,74,67,Good
+1158,Male,19,3.5,65,52,51,Needs Improvement
+1159,Female,20,3.1,100,89,69,Good
+1160,Female,20,3.2,100,81,69,Good
+1161,Female,20,1.4,71,84,62,Good
+1162,Male,19,4.6,82,76,64,Good
+1163,Female,20,0.5,69,37,35,Needs Improvement
+1164,Female,19,5.6,82,85,75,Good
+1165,Male,20,4.6,98,71,65,Good
+1166,Female,22,5.3,93,75,62,Good
+1167,Male,22,6.4,90,78,78,Good
+1168,Female,19,4.9,80,97,70,Good
+1169,Male,22,7.4,95,62,66,Good
+1170,Male,19,5.6,88,63,64,Good
+1171,Female,22,3.1,86,58,56,Needs Improvement
+1172,Male,22,4.1,81,55,54,Needs Improvement
+1173,Male,19,0.5,85,55,35,Needs Improvement
+1174,Male,21,2.9,85,44,43,Needs Improvement
+1175,Male,22,3.8,77,76,63,Good
+1176,Male,20,5.5,74,98,75,Good
+1177,Male,21,3.1,72,99,73,Good
+1178,Female,19,2.3,73,58,54,Needs Improvement
+1179,Male,21,1.1,80,66,54,Needs Improvement
+1180,Male,18,3.4,78,87,63,Good
+1181,Female,18,8.0,76,76,68,Good
+1182,Female,22,5.0,75,72,70,Good
+1183,Female,22,6.2,85,66,63,Good
+1184,Female,20,2.9,96,86,68,Good
+1185,Female,21,1.7,82,55,51,Needs Improvement
+1186,Female,18,2.3,81,77,66,Good
+1187,Female,22,4.3,73,75,57,Needs Improvement
+1188,Male,21,0.9,80,71,51,Needs Improvement
+1189,Male,22,2.7,94,81,57,Needs Improvement
+1190,Female,22,3.4,92,70,60,Good
+1191,Male,18,2.1,92,63,58,Needs Improvement
+1192,Male,18,0.7,91,71,54,Needs Improvement
+1193,Male,22,5.0,86,48,62,Good
+1194,Female,19,4.6,86,79,68,Good
+1195,Female,22,5.9,84,82,70,Good
+1196,Male,22,2.5,78,61,50,Needs Improvement
+1197,Female,20,5.9,83,57,52,Needs Improvement
+1198,Male,20,7.3,84,61,63,Good
+1199,Male,20,5.0,88,69,65,Good
+1200,Male,19,3.4,83,73,60,Good
+1201,Male,19,4.8,100,93,78,Good
+1202,Female,22,3.3,70,91,63,Good
+1203,Female,20,3.0,90,82,60,Good
+1204,Female,19,5.7,82,72,65,Good
+1205,Male,18,4.2,82,57,56,Needs Improvement
+1206,Female,22,6.7,74,94,75,Good
+1207,Male,21,3.7,92,67,62,Good
+1208,Female,22,3.9,89,74,68,Good
+1209,Male,21,3.5,90,79,69,Good
+1210,Male,20,2.5,84,71,62,Good
+1211,Male,21,6.0,79,86,77,Good
+1212,Female,20,8.4,81,76,75,Good
+1213,Female,18,3.8,86,84,69,Good
+1214,Female,21,3.3,62,76,67,Good
+1215,Female,22,3.2,91,69,64,Good
+1216,Male,20,3.3,100,71,59,Needs Improvement
+1217,Female,22,7.5,87,69,59,Needs Improvement
+1218,Female,19,3.2,79,52,48,Needs Improvement
+1219,Male,20,3.4,80,56,55,Needs Improvement
+1220,Male,21,2.3,89,80,68,Good
+1221,Male,20,5.0,79,52,47,Needs Improvement
+1222,Female,22,4.4,91,64,64,Good
+1223,Male,18,2.5,80,55,55,Needs Improvement
+1224,Male,20,2.9,99,64,62,Good
+1225,Male,21,7.3,99,68,73,Good
+1226,Female,19,4.6,79,64,58,Needs Improvement
+1227,Male,18,4.7,81,50,50,Needs Improvement
+1228,Female,19,4.7,82,67,64,Good
+1229,Female,20,7.0,82,57,64,Good
+1230,Male,22,2.6,73,61,49,Needs Improvement
+1231,Male,22,3.8,71,80,75,Good
+1232,Female,21,4.2,94,83,62,Good
+1233,Male,22,1.4,93,52,47,Needs Improvement
+1234,Male,18,2.9,93,92,67,Good
+1235,Female,22,6.4,81,63,64,Good
+1236,Female,21,5.9,100,62,55,Needs Improvement
+1237,Male,20,6.2,82,58,66,Good
+1238,Female,20,3.4,91,71,67,Good
+1239,Male,22,3.7,68,98,71,Good
+1240,Male,19,1.3,80,48,42,Needs Improvement
+1241,Male,20,6.2,80,41,55,Needs Improvement
+1242,Female,22,6.5,81,74,69,Good
+1243,Male,21,6.5,69,78,72,Good
+1244,Male,22,7.4,89,71,69,Good
+1245,Male,20,5.3,92,78,68,Good
+1246,Female,21,7.3,75,54,64,Good
+1247,Female,22,4.1,71,57,55,Needs Improvement
+1248,Female,18,1.3,74,72,53,Needs Improvement
+1249,Female,21,6.0,87,95,80,Excellent
+1250,Female,18,1.3,76,78,58,Needs Improvement
+1251,Male,19,4.8,81,79,69,Good
+1252,Female,21,6.2,71,55,62,Good
+1253,Female,18,5.1,100,76,68,Good
+1254,Female,20,8.6,83,53,59,Needs Improvement
+1255,Male,20,1.0,93,95,70,Good
+1256,Female,19,4.4,87,56,53,Needs Improvement
+1257,Female,21,4.5,82,59,52,Needs Improvement
+1258,Male,21,2.1,81,49,51,Needs Improvement
+1259,Female,21,2.4,75,71,54,Needs Improvement
+1260,Male,19,3.0,77,71,48,Needs Improvement
+1261,Male,21,2.5,72,91,69,Good
+1262,Male,20,4.3,71,81,62,Good
+1263,Male,18,3.4,100,59,61,Good
+1264,Male,20,5.1,85,82,75,Good
+1265,Female,20,5.7,97,53,60,Good
+1266,Male,18,5.5,74,60,47,Needs Improvement
+1267,Male,20,3.8,69,72,48,Needs Improvement
+1268,Female,19,5.0,72,54,49,Needs Improvement
+1269,Male,18,6.4,78,85,72,Good
+1270,Female,20,5.3,82,100,84,Excellent
+1271,Female,22,7.8,80,66,68,Good
+1272,Female,20,6.3,74,61,73,Good
+1273,Male,19,7.6,83,68,60,Good
+1274,Male,21,0.5,84,62,50,Needs Improvement
+1275,Male,20,4.7,89,74,63,Good
+1276,Female,21,3.9,97,51,56,Needs Improvement
+1277,Male,22,4.3,78,74,71,Good
+1278,Male,20,3.1,94,97,83,Excellent
+1279,Male,18,5.2,83,42,50,Needs Improvement
+1280,Female,21,1.2,67,54,48,Needs Improvement
+1281,Female,22,5.2,100,64,65,Good
+1282,Male,18,3.1,100,78,61,Good
+1283,Male,18,3.6,88,82,67,Good
+1284,Male,18,5.3,83,81,66,Good
+1285,Male,18,4.6,79,46,49,Needs Improvement
+1286,Female,20,6.4,77,61,56,Needs Improvement
+1287,Female,20,2.8,94,57,55,Needs Improvement
+1288,Female,20,4.4,82,69,62,Good
+1289,Female,22,6.1,99,70,72,Good
+1290,Male,22,5.2,82,51,56,Needs Improvement
+1291,Male,22,5.3,78,64,68,Good
+1292,Male,19,6.5,76,78,79,Good
+1293,Female,22,3.8,75,61,52,Needs Improvement
+1294,Male,20,3.4,87,67,64,Good
+1295,Female,20,5.5,69,94,83,Excellent
+1296,Female,19,4.2,74,98,78,Good
+1297,Male,19,6.5,95,40,58,Needs Improvement
+1298,Male,22,5.2,72,72,53,Needs Improvement
+1299,Male,21,3.4,91,100,73,Good
+1300,Female,19,5.1,61,77,60,Good
+1301,Male,18,2.9,97,70,68,Good
+1302,Female,20,6.2,69,88,67,Good
+1303,Male,18,2.0,73,73,55,Needs Improvement
+1304,Female,20,6.7,89,80,77,Good
+1305,Female,20,5.1,85,67,58,Needs Improvement
+1306,Male,19,4.2,91,73,66,Good
+1307,Female,19,5.9,69,76,65,Good
+1308,Female,18,5.4,79,82,73,Good
+1309,Male,20,6.9,76,64,66,Good
+1310,Female,18,6.9,71,64,65,Good
+1311,Male,21,5.1,88,43,52,Needs Improvement
+1312,Female,18,2.9,91,65,49,Needs Improvement
+1313,Male,22,3.5,79,83,66,Good
+1314,Male,18,4.4,97,76,68,Good
+1315,Female,22,6.4,74,56,61,Good
+1316,Female,22,3.7,97,43,48,Needs Improvement
+1317,Female,22,3.8,88,68,61,Good
+1318,Female,21,7.8,70,83,73,Good
+1319,Female,18,4.3,100,63,58,Needs Improvement
+1320,Male,18,3.4,78,50,43,Needs Improvement
+1321,Female,21,5.9,94,62,65,Good
+1322,Male,20,4.4,83,75,69,Good
+1323,Male,19,2.0,86,87,62,Good
+1324,Female,18,6.4,91,66,65,Good
+1325,Male,19,3.2,90,85,72,Good
+1326,Male,21,4.6,79,83,72,Good
+1327,Male,20,4.4,87,54,56,Needs Improvement
+1328,Male,20,4.9,87,88,74,Good
+1329,Female,20,0.6,84,74,58,Needs Improvement
+1330,Male,21,3.9,80,53,55,Needs Improvement
+1331,Female,22,6.5,84,95,73,Good
+1332,Female,22,6.8,100,68,79,Good
+1333,Male,19,2.7,79,43,45,Needs Improvement
+1334,Female,22,6.2,94,60,67,Good
+1335,Female,22,3.1,76,57,47,Needs Improvement
+1336,Female,20,3.8,73,60,52,Needs Improvement
+1337,Male,20,3.9,100,64,63,Good
+1338,Female,19,4.7,87,66,52,Needs Improvement
+1339,Female,18,6.3,88,66,60,Good
+1340,Female,19,5.0,88,69,60,Good
+1341,Male,19,4.3,96,78,62,Good
+1342,Female,21,6.2,86,60,62,Good
+1343,Male,21,3.1,90,87,68,Good
+1344,Male,19,4.4,71,53,58,Needs Improvement
+1345,Male,19,6.3,92,79,66,Good
+1346,Male,19,5.5,80,93,76,Good
+1347,Male,22,3.7,89,68,56,Needs Improvement
+1348,Male,21,1.8,65,73,45,Needs Improvement
+1349,Female,19,5.1,88,56,60,Good
+1350,Male,20,1.7,60,63,51,Needs Improvement
+1351,Female,20,4.1,79,92,73,Good
+1352,Female,22,6.6,65,80,61,Good
+1353,Male,22,5.6,88,76,69,Good
+1354,Female,18,0.9,83,43,44,Needs Improvement
+1355,Female,18,4.9,74,60,61,Good
+1356,Female,18,3.9,96,94,78,Good
+1357,Female,22,2.2,73,76,62,Good
+1358,Male,22,5.1,52,77,65,Good
+1359,Female,22,3.6,87,72,62,Good
+1360,Male,20,3.6,64,61,54,Needs Improvement
+1361,Female,22,4.7,73,75,67,Good
+1362,Female,20,3.4,77,49,50,Needs Improvement
+1363,Male,18,4.7,68,48,54,Needs Improvement
+1364,Female,18,3.4,77,60,58,Needs Improvement
+1365,Female,18,3.5,68,73,55,Needs Improvement
+1366,Female,19,6.3,84,48,49,Needs Improvement
+1367,Male,19,6.5,70,72,64,Good
+1368,Female,21,1.4,82,56,42,Needs Improvement
+1369,Male,21,5.8,94,58,62,Good
+1370,Female,21,7.0,90,88,77,Good
+1371,Male,19,7.3,81,71,74,Good
+1372,Male,19,5.4,72,57,58,Needs Improvement
+1373,Female,21,2.6,84,73,64,Good
+1374,Female,21,5.6,75,49,50,Needs Improvement
+1375,Male,22,2.9,84,75,69,Good
+1376,Male,21,3.9,65,86,69,Good
+1377,Female,22,5.2,90,79,71,Good
+1378,Male,20,3.1,82,100,64,Good
+1379,Female,19,2.4,100,43,54,Needs Improvement
+1380,Female,21,5.3,95,72,76,Good
+1381,Female,19,7.9,88,51,61,Good
+1382,Female,19,6.7,81,68,65,Good
+1383,Male,19,5.8,75,70,60,Good
+1384,Female,20,6.3,91,100,74,Good
+1385,Male,18,5.6,80,69,60,Good
+1386,Female,21,5.3,94,69,74,Good
+1387,Male,18,6.1,86,84,78,Good
+1388,Female,18,2.0,86,69,53,Needs Improvement
+1389,Male,18,4.9,88,96,73,Good
+1390,Male,19,4.4,73,79,74,Good
+1391,Female,22,4.6,72,82,60,Good
+1392,Female,19,3.7,71,44,41,Needs Improvement
+1393,Female,19,5.4,92,98,77,Good
+1394,Female,18,3.0,73,61,45,Needs Improvement
+1395,Male,19,3.5,74,70,55,Needs Improvement
+1396,Female,18,3.3,87,61,53,Needs Improvement
+1397,Male,22,6.1,79,56,53,Needs Improvement
+1398,Male,21,4.5,78,53,59,Needs Improvement
+1399,Female,18,3.7,77,71,53,Needs Improvement
+1400,Male,22,3.8,59,42,41,Needs Improvement
+1401,Male,21,4.5,72,67,54,Needs Improvement
+1402,Male,20,7.4,94,85,77,Good
+1403,Male,18,2.3,77,79,55,Needs Improvement
+1404,Female,18,5.7,63,76,63,Good
+1405,Female,20,5.3,72,57,56,Needs Improvement
+1406,Female,20,2.9,86,48,55,Needs Improvement
+1407,Female,18,7.1,85,85,72,Good
+1408,Male,20,5.5,79,64,68,Good
+1409,Male,19,3.6,75,69,54,Needs Improvement
+1410,Female,21,1.2,68,67,49,Needs Improvement
+1411,Female,21,4.9,86,79,76,Good
+1412,Female,21,4.4,90,96,90,Excellent
+1413,Male,19,2.6,95,90,78,Good
+1414,Female,20,2.6,71,37,38,Needs Improvement
+1415,Female,22,6.1,96,66,69,Good
+1416,Female,20,1.0,81,51,48,Needs Improvement
+1417,Male,18,5.1,82,83,71,Good
+1418,Male,21,4.2,91,70,58,Needs Improvement
+1419,Male,20,5.4,77,78,67,Good
+1420,Male,22,4.0,60,64,50,Needs Improvement
+1421,Male,18,5.0,89,55,52,Needs Improvement
+1422,Male,19,3.2,85,58,52,Needs Improvement
+1423,Male,19,4.4,78,49,52,Needs Improvement
+1424,Male,22,5.4,88,52,61,Good
+1425,Female,18,4.8,90,49,53,Needs Improvement
+1426,Female,21,5.2,67,56,53,Needs Improvement
+1427,Male,20,2.8,82,55,55,Needs Improvement
+1428,Male,18,3.4,59,76,57,Needs Improvement
+1429,Female,19,3.5,81,75,63,Good
+1430,Male,22,4.0,78,76,63,Good
+1431,Male,22,6.9,87,86,77,Good
+1432,Male,20,3.9,71,69,52,Needs Improvement
+1433,Female,22,2.4,78,59,51,Needs Improvement
+1434,Female,22,5.5,50,100,78,Good
+1435,Female,18,6.9,88,83,75,Good
+1436,Female,21,2.2,81,72,53,Needs Improvement
+1437,Female,20,8.1,83,71,78,Good
+1438,Male,18,5.2,67,74,65,Good
+1439,Female,21,6.4,86,67,69,Good
+1440,Male,18,7.1,99,72,76,Good
+1441,Male,18,6.3,80,77,63,Good
+1442,Female,22,4.3,89,60,61,Good
+1443,Female,21,6.7,73,47,60,Good
+1444,Male,20,5.0,81,41,46,Needs Improvement
+1445,Male,20,6.5,67,82,59,Needs Improvement
+1446,Male,21,6.7,90,48,59,Needs Improvement
+1447,Female,22,2.5,84,77,61,Good
+1448,Female,19,5.9,70,54,47,Needs Improvement
+1449,Female,18,4.2,74,54,54,Needs Improvement
+1450,Female,22,4.7,83,60,60,Good
+1451,Female,21,4.7,91,73,58,Needs Improvement
+1452,Male,18,4.7,97,52,66,Good
+1453,Female,20,7.2,81,61,67,Good
+1454,Male,19,2.0,68,70,44,Needs Improvement
+1455,Male,20,1.4,84,53,51,Needs Improvement
+1456,Male,21,1.0,100,90,71,Good
+1457,Female,18,6.4,66,46,58,Needs Improvement
+1458,Female,21,3.1,72,67,52,Needs Improvement
+1459,Female,18,4.7,88,88,76,Good
+1460,Male,22,4.3,84,51,51,Needs Improvement
+1461,Male,19,2.9,77,68,53,Needs Improvement
+1462,Male,22,6.0,84,72,62,Good
+1463,Male,22,4.3,92,59,49,Needs Improvement
+1464,Male,21,4.1,81,69,63,Good
+1465,Male,19,4.9,80,78,64,Good
+1466,Female,18,5.8,88,63,49,Needs Improvement
+1467,Female,18,2.8,79,81,63,Good
+1468,Female,20,6.1,93,75,76,Good
+1469,Female,18,7.1,100,62,61,Good
+1470,Male,21,1.9,73,86,58,Needs Improvement
+1471,Male,22,5.0,69,60,57,Needs Improvement
+1472,Female,22,4.0,86,82,54,Needs Improvement
+1473,Male,22,5.8,69,60,54,Needs Improvement
+1474,Female,19,2.3,69,66,54,Needs Improvement
+1475,Female,18,7.4,62,68,60,Good
+1476,Female,21,1.6,78,75,50,Needs Improvement
+1477,Male,19,4.1,82,36,38,Needs Improvement
+1478,Female,20,5.3,77,76,57,Needs Improvement
+1479,Female,21,3.3,96,69,58,Needs Improvement
+1480,Female,21,3.0,95,74,68,Good
+1481,Male,21,4.9,100,77,82,Excellent
+1482,Male,22,4.6,82,76,65,Good
+1483,Female,21,4.5,94,42,55,Needs Improvement
+1484,Male,18,6.0,85,55,54,Needs Improvement
+1485,Male,21,3.8,84,75,52,Needs Improvement
+1486,Male,22,5.1,77,73,72,Good
+1487,Male,21,3.6,59,59,46,Needs Improvement
+1488,Male,20,3.0,88,80,68,Good
+1489,Male,20,4.0,94,66,62,Good
+1490,Male,22,3.6,67,82,67,Good
+1491,Male,18,3.7,82,87,73,Good
+1492,Male,18,6.6,92,74,72,Good
+1493,Male,19,4.0,78,78,65,Good
+1494,Female,22,3.3,94,61,63,Good
+1495,Female,21,4.6,81,82,65,Good
+1496,Male,22,4.7,77,73,70,Good
+1497,Female,19,2.4,95,66,54,Needs Improvement
+1498,Female,22,4.0,73,53,51,Needs Improvement
+1499,Male,22,3.9,75,63,58,Needs Improvement
+1500,Male,19,4.2,73,54,43,Needs Improvement
+1501,Male,18,5.8,71,81,74,Good
+1502,Female,21,4.7,84,87,73,Good
+1503,Female,19,6.7,77,83,88,Excellent
+1504,Male,20,4.5,87,100,87,Excellent
+1505,Male,18,7.7,65,64,62,Good
+1506,Male,20,3.7,71,78,70,Good
+1507,Female,18,3.1,83,53,55,Needs Improvement
+1508,Female,21,5.5,97,67,67,Good
+1509,Female,21,7.0,86,49,50,Needs Improvement
+1510,Female,22,2.0,76,78,51,Needs Improvement
+1511,Male,20,4.1,67,65,55,Needs Improvement
+1512,Male,18,3.4,76,41,41,Needs Improvement
+1513,Male,21,4.8,82,60,59,Needs Improvement
+1514,Male,19,4.5,58,95,75,Good
+1515,Female,21,6.9,70,76,71,Good
+1516,Female,19,4.3,75,81,61,Good
+1517,Male,18,7.0,79,72,72,Good
+1518,Male,21,3.9,81,67,54,Needs Improvement
+1519,Female,21,6.2,76,70,58,Needs Improvement
+1520,Male,18,4.9,87,73,67,Good
+1521,Female,21,7.6,83,55,57,Needs Improvement
+1522,Male,19,1.8,78,81,57,Needs Improvement
+1523,Male,21,2.4,88,86,71,Good
+1524,Male,20,7.8,88,67,72,Good
+1525,Male,22,3.2,67,63,50,Needs Improvement
+1526,Male,19,3.3,82,60,46,Needs Improvement
+1527,Male,20,2.9,91,95,68,Good
+1528,Male,18,6.6,93,64,75,Good
+1529,Female,19,2.2,86,79,67,Good
+1530,Female,22,4.5,80,67,67,Good
+1531,Female,22,4.0,86,67,61,Good
+1532,Female,18,6.4,90,59,60,Good
+1533,Female,18,3.5,83,56,57,Needs Improvement
+1534,Male,19,5.2,84,80,75,Good
+1535,Male,21,2.4,80,56,47,Needs Improvement
+1536,Female,18,8.6,69,76,67,Good
+1537,Male,21,4.1,80,71,53,Needs Improvement
+1538,Female,20,4.5,75,81,62,Good
+1539,Female,22,7.5,75,61,66,Good
+1540,Male,21,3.4,96,85,66,Good
+1541,Male,22,7.5,92,68,74,Good
+1542,Male,21,3.8,65,100,80,Excellent
+1543,Female,20,5.7,71,47,51,Needs Improvement
+1544,Male,18,3.5,78,100,73,Good
+1545,Female,20,2.1,76,68,57,Needs Improvement
+1546,Female,18,5.2,85,73,62,Good
+1547,Female,18,5.7,70,62,54,Needs Improvement
+1548,Male,22,2.1,92,48,45,Needs Improvement
+1549,Male,20,3.9,82,63,51,Needs Improvement
+1550,Female,21,6.7,79,65,68,Good
+1551,Male,20,5.6,82,73,63,Good
+1552,Male,22,3.8,78,86,72,Good
+1553,Male,18,3.4,62,73,59,Needs Improvement
+1554,Female,22,8.0,82,73,71,Good
+1555,Female,19,1.9,79,75,62,Good
+1556,Male,19,4.4,72,45,42,Needs Improvement
+1557,Female,21,1.9,93,47,43,Needs Improvement
+1558,Male,22,6.9,89,49,62,Good
+1559,Male,21,4.5,100,65,52,Needs Improvement
+1560,Male,21,4.8,90,44,52,Needs Improvement
+1561,Male,19,9.5,76,60,69,Good
+1562,Female,21,3.4,73,51,55,Needs Improvement
+1563,Female,19,7.6,77,77,78,Good
+1564,Female,18,3.8,75,76,61,Good
+1565,Male,22,4.1,83,66,63,Good
+1566,Male,21,9.2,67,43,52,Needs Improvement
+1567,Male,19,4.2,88,67,59,Needs Improvement
+1568,Female,20,2.0,83,75,65,Good
+1569,Male,21,5.0,87,81,69,Good
+1570,Female,18,4.2,71,95,71,Good
+1571,Female,18,5.2,84,86,66,Good
+1572,Female,20,4.3,95,72,67,Good
+1573,Female,19,8.5,73,66,70,Good
+1574,Female,21,5.5,73,60,61,Good
+1575,Female,19,2.6,89,89,62,Good
+1576,Male,18,4.7,72,72,66,Good
+1577,Male,19,3.1,80,79,57,Needs Improvement
+1578,Female,18,4.1,97,62,60,Good
+1579,Female,19,2.9,73,53,40,Needs Improvement
+1580,Male,20,8.3,97,64,69,Good
+1581,Female,22,3.3,79,66,51,Needs Improvement
+1582,Female,20,5.7,71,73,61,Good
+1583,Male,20,3.9,88,60,57,Needs Improvement
+1584,Female,22,2.4,83,70,61,Good
+1585,Female,22,4.9,82,86,74,Good
+1586,Female,21,5.2,74,47,39,Needs Improvement
+1587,Male,21,5.5,83,40,53,Needs Improvement
+1588,Male,20,0.5,61,87,57,Needs Improvement
+1589,Male,20,2.3,84,50,45,Needs Improvement
+1590,Female,18,6.2,95,65,61,Good
+1591,Female,18,2.8,64,79,58,Needs Improvement
+1592,Male,21,4.9,78,69,62,Good
+1593,Female,21,2.2,73,69,56,Needs Improvement
+1594,Female,18,5.8,67,71,61,Good
+1595,Female,18,6.2,61,100,62,Good
+1596,Female,19,5.8,70,95,71,Good
+1597,Female,19,6.4,80,60,55,Needs Improvement
+1598,Male,18,7.3,93,85,88,Excellent
+1599,Female,19,2.4,67,77,57,Needs Improvement
+1600,Male,22,3.1,85,70,63,Good
+1601,Female,21,6.1,84,57,62,Good
+1602,Male,21,6.5,99,76,74,Good
+1603,Female,18,3.3,88,66,56,Needs Improvement
+1604,Male,20,3.2,88,65,55,Needs Improvement
+1605,Female,18,3.3,89,59,45,Needs Improvement
+1606,Male,19,1.6,73,84,61,Good
+1607,Female,20,2.2,76,59,51,Needs Improvement
+1608,Male,19,2.3,93,59,54,Needs Improvement
+1609,Female,22,4.0,61,81,62,Good
+1610,Male,19,5.0,75,68,54,Needs Improvement
+1611,Male,22,5.3,69,68,58,Needs Improvement
+1612,Female,22,3.6,84,84,63,Good
+1613,Female,19,3.6,78,88,71,Good
+1614,Male,19,4.7,88,40,49,Needs Improvement
+1615,Female,22,1.8,81,68,51,Needs Improvement
+1616,Male,20,6.2,67,50,52,Needs Improvement
+1617,Male,22,6.8,67,65,56,Needs Improvement
+1618,Male,21,3.4,82,70,57,Needs Improvement
+1619,Female,22,3.8,74,65,59,Needs Improvement
+1620,Male,20,6.7,77,56,52,Needs Improvement
+1621,Male,21,4.3,91,55,56,Needs Improvement
+1622,Female,18,5.6,90,80,67,Good
+1623,Female,18,4.3,100,91,68,Good
+1624,Female,20,7.3,79,41,62,Good
+1625,Female,22,5.4,76,65,66,Good
+1626,Male,19,5.5,86,80,66,Good
+1627,Male,20,5.5,76,70,61,Good
+1628,Male,21,3.5,77,54,40,Needs Improvement
+1629,Male,21,3.7,80,63,48,Needs Improvement
+1630,Female,18,5.9,99,74,65,Good
+1631,Male,21,4.7,89,66,61,Good
+1632,Male,20,2.4,90,69,58,Needs Improvement
+1633,Female,21,7.9,98,70,74,Good
+1634,Male,20,6.3,91,63,68,Good
+1635,Male,19,4.6,71,81,66,Good
+1636,Male,18,4.0,91,63,54,Needs Improvement
+1637,Male,21,4.9,92,56,60,Good
+1638,Male,20,5.4,89,100,83,Excellent
+1639,Male,22,0.8,80,69,50,Needs Improvement
+1640,Female,18,8.3,87,35,45,Needs Improvement
+1641,Female,19,3.1,82,88,73,Good
+1642,Male,20,4.5,72,88,68,Good
+1643,Male,19,4.6,75,76,49,Needs Improvement
+1644,Female,19,8.1,89,79,86,Excellent
+1645,Male,21,4.3,73,100,71,Good
+1646,Male,21,7.4,74,57,72,Good
+1647,Male,20,5.2,90,72,68,Good
+1648,Female,22,2.8,83,98,70,Good
+1649,Male,20,4.7,88,100,79,Good
+1650,Female,22,4.3,70,65,53,Needs Improvement
+1651,Male,19,2.5,87,98,72,Good
+1652,Female,18,5.1,75,81,77,Good
+1653,Female,20,4.5,72,91,65,Good
+1654,Male,20,5.5,77,81,71,Good
+1655,Female,22,4.8,96,74,64,Good
+1656,Male,19,3.3,78,100,72,Good
+1657,Female,19,5.9,100,63,75,Good
+1658,Male,22,3.4,61,97,70,Good
+1659,Male,19,0.5,67,99,67,Good
+1660,Female,21,4.7,95,89,74,Good
+1661,Male,18,3.5,98,69,76,Good
+1662,Male,20,5.2,73,73,58,Needs Improvement
+1663,Female,18,8.1,83,52,53,Needs Improvement
+1664,Male,20,8.1,89,64,77,Good
+1665,Male,21,4.2,80,79,63,Good
+1666,Female,19,3.0,83,50,51,Needs Improvement
+1667,Female,22,5.6,82,66,71,Good
+1668,Male,21,3.8,67,97,72,Good
+1669,Male,18,5.2,79,68,73,Good
+1670,Female,22,3.3,82,84,66,Good
+1671,Female,19,5.0,83,78,63,Good
+1672,Male,21,3.0,65,66,41,Needs Improvement
+1673,Female,22,6.6,90,68,68,Good
+1674,Male,21,3.4,83,72,49,Needs Improvement
+1675,Male,21,5.7,71,41,49,Needs Improvement
+1676,Male,19,2.2,100,83,74,Good
+1677,Male,20,5.9,79,68,63,Good
+1678,Male,22,2.8,79,84,65,Good
+1679,Female,19,5.0,88,75,71,Good
+1680,Female,21,6.3,100,68,72,Good
+1681,Female,19,4.1,89,73,69,Good
+1682,Female,20,2.6,90,73,60,Good
+1683,Male,22,5.4,72,91,60,Good
+1684,Male,20,3.0,83,71,65,Good
+1685,Male,18,3.8,77,74,60,Good
+1686,Male,22,5.0,89,52,51,Needs Improvement
+1687,Female,20,6.9,90,69,70,Good
+1688,Male,21,4.5,98,90,76,Good
+1689,Male,22,4.5,60,76,56,Needs Improvement
+1690,Female,22,5.8,76,55,49,Needs Improvement
+1691,Female,19,4.6,95,56,60,Good
+1692,Female,21,5.6,68,60,52,Needs Improvement
+1693,Female,18,6.4,90,84,75,Good
+1694,Male,20,3.9,93,82,70,Good
+1695,Male,19,0.5,82,35,41,Needs Improvement
+1696,Female,20,3.0,68,69,65,Good
+1697,Male,18,6.7,81,72,68,Good
+1698,Male,18,4.4,97,57,56,Needs Improvement
+1699,Male,22,3.9,97,65,69,Good
+1700,Female,18,6.6,84,89,81,Excellent
+1701,Male,20,4.3,72,76,63,Good
+1702,Female,21,0.7,99,63,55,Needs Improvement
+1703,Male,21,1.8,90,67,56,Needs Improvement
+1704,Male,22,5.3,73,67,61,Good
+1705,Male,20,4.4,85,74,63,Good
+1706,Female,20,7.1,85,50,53,Needs Improvement
+1707,Male,18,3.2,76,61,53,Needs Improvement
+1708,Female,20,3.9,85,84,76,Good
+1709,Female,19,2.9,93,69,56,Needs Improvement
+1710,Female,18,3.6,79,58,52,Needs Improvement
+1711,Male,19,1.1,94,59,47,Needs Improvement
+1712,Male,22,3.8,64,80,67,Good
+1713,Male,21,4.4,100,63,66,Good
+1714,Male,22,4.3,83,77,58,Needs Improvement
+1715,Female,21,8.4,93,61,58,Needs Improvement
+1716,Female,22,7.8,84,54,66,Good
+1717,Female,20,3.1,74,73,51,Needs Improvement
+1718,Male,19,0.8,82,69,57,Needs Improvement
+1719,Female,21,4.3,63,80,59,Needs Improvement
+1720,Male,18,5.2,89,82,74,Good
+1721,Female,19,3.0,84,65,59,Needs Improvement
+1722,Male,18,3.0,80,75,58,Needs Improvement
+1723,Male,19,7.3,90,65,63,Good
+1724,Female,19,4.0,82,79,68,Good
+1725,Female,22,5.7,88,73,63,Good
+1726,Female,21,2.8,92,61,61,Good
+1727,Female,21,4.4,77,60,51,Needs Improvement
+1728,Male,19,3.9,74,74,62,Good
+1729,Female,20,3.3,65,86,61,Good
+1730,Female,20,6.6,83,83,73,Good
+1731,Female,18,2.0,87,57,47,Needs Improvement
+1732,Male,18,5.0,69,58,53,Needs Improvement
+1733,Male,22,3.9,96,60,46,Needs Improvement
+1734,Female,19,5.2,74,62,53,Needs Improvement
+1735,Male,18,3.9,61,45,41,Needs Improvement
+1736,Female,18,6.1,97,81,73,Good
+1737,Male,19,2.8,62,64,57,Needs Improvement
+1738,Male,22,6.6,92,76,68,Good
+1739,Male,18,4.4,89,66,68,Good
+1740,Male,22,2.1,85,70,53,Needs Improvement
+1741,Female,21,5.7,77,60,53,Needs Improvement
+1742,Female,22,4.1,87,70,52,Needs Improvement
+1743,Female,20,1.4,92,58,54,Needs Improvement
+1744,Male,20,5.1,72,70,61,Good
+1745,Female,22,6.3,92,90,80,Excellent
+1746,Female,20,6.8,91,77,73,Good
+1747,Female,21,3.8,85,74,63,Good
+1748,Male,19,4.8,77,52,54,Needs Improvement
+1749,Male,20,4.6,91,78,78,Good
+1750,Male,20,7.2,87,79,71,Good
+1751,Female,22,3.0,72,74,68,Good
+1752,Female,21,3.7,78,73,65,Good
+1753,Female,19,3.0,90,68,61,Good
+1754,Male,22,1.9,83,79,63,Good
+1755,Male,22,4.9,93,90,58,Needs Improvement
+1756,Female,21,7.4,79,75,68,Good
+1757,Male,19,4.1,72,56,48,Needs Improvement
+1758,Male,21,2.9,100,57,66,Good
+1759,Male,19,4.8,65,80,62,Good
+1760,Male,21,5.6,77,57,56,Needs Improvement
+1761,Female,22,4.2,85,73,63,Good
+1762,Male,22,7.0,92,65,60,Good
+1763,Male,18,3.0,88,55,50,Needs Improvement
+1764,Male,20,4.0,100,82,74,Good
+1765,Male,21,5.0,81,80,57,Needs Improvement
+1766,Female,18,5.2,73,51,54,Needs Improvement
+1767,Female,20,4.6,80,77,60,Good
+1768,Male,21,2.2,79,75,65,Good
+1769,Male,19,8.7,81,82,78,Good
+1770,Male,20,4.1,72,72,52,Needs Improvement
+1771,Male,22,4.7,90,90,71,Good
+1772,Male,18,5.6,86,68,66,Good
+1773,Male,20,3.4,69,66,53,Needs Improvement
+1774,Female,20,4.6,92,56,58,Needs Improvement
+1775,Male,22,3.3,74,57,51,Needs Improvement
+1776,Female,21,5.2,70,56,58,Needs Improvement
+1777,Female,19,4.0,83,73,64,Good
+1778,Male,22,5.0,64,66,57,Needs Improvement
+1779,Female,19,2.6,88,75,61,Good
+1780,Female,21,3.0,54,53,39,Needs Improvement
+1781,Female,20,2.0,72,58,55,Needs Improvement
+1782,Female,19,3.2,98,58,71,Good
+1783,Female,18,0.5,75,100,64,Good
+1784,Female,18,3.9,77,68,58,Needs Improvement
+1785,Male,22,3.5,95,69,67,Good
+1786,Female,21,4.8,74,69,65,Good
+1787,Female,22,4.6,90,92,75,Good
+1788,Female,22,6.8,94,47,53,Needs Improvement
+1789,Male,22,9.2,87,69,82,Excellent
+1790,Female,18,6.5,68,47,55,Needs Improvement
+1791,Male,18,3.7,76,37,44,Needs Improvement
+1792,Female,22,3.6,100,60,55,Needs Improvement
+1793,Male,18,6.1,77,76,67,Good
+1794,Male,21,1.5,100,59,45,Needs Improvement
+1795,Female,22,3.9,99,76,71,Good
+1796,Female,18,4.1,87,71,67,Good
+1797,Male,19,5.6,85,68,65,Good
+1798,Female,22,5.6,77,88,67,Good
+1799,Male,22,3.2,81,62,57,Needs Improvement
+1800,Male,21,3.8,75,75,65,Good
+1801,Male,20,5.3,81,45,47,Needs Improvement
+1802,Male,20,3.1,68,71,61,Good
+1803,Male,21,6.7,68,66,64,Good
+1804,Female,21,5.6,95,53,57,Needs Improvement
+1805,Male,21,4.8,66,76,59,Needs Improvement
+1806,Male,20,5.2,91,60,59,Needs Improvement
+1807,Female,21,3.7,63,94,62,Good
+1808,Male,18,3.4,88,36,45,Needs Improvement
+1809,Female,22,3.7,80,73,64,Good
+1810,Female,22,5.4,95,71,73,Good
+1811,Female,19,4.9,79,66,61,Good
+1812,Male,19,3.7,62,63,54,Needs Improvement
+1813,Male,22,5.8,80,71,63,Good
+1814,Male,18,4.2,84,85,64,Good
+1815,Female,20,3.3,81,47,45,Needs Improvement
+1816,Male,20,5.0,88,59,66,Good
+1817,Female,18,2.7,76,55,52,Needs Improvement
+1818,Male,20,1.5,69,55,47,Needs Improvement
+1819,Female,21,4.5,72,75,53,Needs Improvement
+1820,Male,22,3.3,77,78,63,Good
+1821,Male,22,4.0,77,85,60,Good
+1822,Male,18,2.8,100,78,59,Needs Improvement
+1823,Female,20,6.7,95,80,68,Good
+1824,Female,19,3.3,89,50,47,Needs Improvement
+1825,Male,19,3.7,86,91,75,Good
+1826,Male,20,5.2,85,67,63,Good
+1827,Female,19,2.0,85,84,59,Needs Improvement
+1828,Female,18,1.9,84,51,44,Needs Improvement
+1829,Female,18,5.2,82,67,64,Good
+1830,Male,20,3.7,61,83,65,Good
+1831,Female,19,2.9,78,70,58,Needs Improvement
+1832,Male,18,5.6,80,59,53,Needs Improvement
+1833,Female,18,3.0,75,88,63,Good
+1834,Male,21,4.0,76,54,63,Good
+1835,Female,21,2.9,85,70,53,Needs Improvement
+1836,Female,18,5.0,90,79,71,Good
+1837,Female,20,6.9,85,99,92,Excellent
+1838,Female,22,1.2,89,64,52,Needs Improvement
+1839,Female,22,4.7,90,66,71,Good
+1840,Male,18,6.0,79,64,58,Needs Improvement
+1841,Female,18,3.7,87,73,52,Needs Improvement
+1842,Female,18,2.5,65,78,54,Needs Improvement
+1843,Female,20,5.3,78,85,66,Good
+1844,Male,21,6.3,77,81,61,Good
+1845,Female,18,6.1,97,63,63,Good
+1846,Male,18,5.2,85,81,74,Good
+1847,Female,19,4.7,69,71,57,Needs Improvement
+1848,Female,20,2.9,88,80,62,Good
+1849,Male,18,6.1,91,81,79,Good
+1850,Female,19,6.0,81,93,72,Good
+1851,Male,22,2.5,89,65,59,Needs Improvement
+1852,Male,18,5.2,57,62,45,Needs Improvement
+1853,Female,18,5.7,55,76,56,Needs Improvement
+1854,Male,19,6.1,70,87,70,Good
+1855,Female,20,4.4,83,71,68,Good
+1856,Female,18,3.0,97,87,65,Good
+1857,Male,22,3.6,71,80,57,Needs Improvement
+1858,Male,18,2.7,73,67,56,Needs Improvement
+1859,Male,22,4.4,83,78,68,Good
+1860,Male,21,4.1,77,64,52,Needs Improvement
+1861,Female,21,8.4,77,73,68,Good
+1862,Female,22,6.1,78,55,62,Good
+1863,Male,20,6.2,95,69,62,Good
+1864,Female,18,5.3,93,84,74,Good
+1865,Female,18,3.8,82,81,63,Good
+1866,Female,21,4.0,99,79,76,Good
+1867,Female,22,4.2,87,74,67,Good
+1868,Male,18,4.8,94,72,70,Good
+1869,Male,18,5.2,73,52,50,Needs Improvement
+1870,Female,20,4.5,75,67,63,Good
+1871,Male,19,4.0,75,73,64,Good
+1872,Male,21,3.4,81,54,54,Needs Improvement
+1873,Male,21,2.0,83,45,43,Needs Improvement
+1874,Female,19,6.8,85,86,76,Good
+1875,Female,18,8.5,100,71,66,Good
+1876,Female,20,6.7,89,73,78,Good
+1877,Male,20,2.2,77,78,56,Needs Improvement
+1878,Female,21,5.9,82,56,56,Needs Improvement
+1879,Female,20,6.3,97,64,59,Needs Improvement
+1880,Male,19,3.8,90,91,75,Good
+1881,Female,18,5.4,97,63,66,Good
+1882,Female,19,3.7,77,66,55,Needs Improvement
+1883,Male,22,7.3,75,61,50,Needs Improvement
+1884,Male,21,5.2,75,60,53,Needs Improvement
+1885,Male,20,2.8,78,85,66,Good
+1886,Female,22,5.7,71,35,46,Needs Improvement
+1887,Female,20,6.4,85,64,63,Good
+1888,Female,18,4.9,85,73,62,Good
+1889,Male,18,5.4,95,94,70,Good
+1890,Male,18,4.4,64,54,54,Needs Improvement
+1891,Female,20,2.5,73,52,39,Needs Improvement
+1892,Female,22,4.2,90,58,56,Needs Improvement
+1893,Male,18,5.4,84,80,64,Good
+1894,Male,22,4.3,82,72,67,Good
+1895,Male,20,5.9,95,50,61,Good
+1896,Male,22,3.8,72,71,56,Needs Improvement
+1897,Female,20,3.9,75,92,73,Good
+1898,Male,20,6.0,74,74,58,Needs Improvement
+1899,Female,21,4.9,62,72,59,Needs Improvement
+1900,Female,20,3.8,83,73,56,Needs Improvement
+1901,Female,20,6.4,77,76,73,Good
+1902,Male,19,3.3,75,52,51,Needs Improvement
+1903,Male,18,3.2,73,67,59,Needs Improvement
+1904,Male,21,0.5,82,67,49,Needs Improvement
+1905,Male,21,3.5,74,63,58,Needs Improvement
+1906,Female,21,6.9,84,80,66,Good
+1907,Male,19,0.8,87,61,45,Needs Improvement
+1908,Male,20,2.8,79,65,54,Needs Improvement
+1909,Female,18,5.3,78,52,49,Needs Improvement
+1910,Male,22,0.5,84,75,59,Needs Improvement
+1911,Female,20,3.6,82,83,63,Good
+1912,Female,19,6.6,95,65,61,Good
+1913,Female,20,8.2,85,81,70,Good
+1914,Female,20,5.0,93,68,68,Good
+1915,Female,19,2.8,88,35,35,Needs Improvement
+1916,Female,21,2.8,69,69,49,Needs Improvement
+1917,Female,21,4.8,76,68,67,Good
+1918,Female,18,5.0,82,71,61,Good
+1919,Male,18,7.8,91,74,76,Good
+1920,Male,21,6.2,100,60,67,Good
+1921,Male,22,4.7,77,91,70,Good
+1922,Male,20,3.9,83,69,52,Needs Improvement
+1923,Female,22,9.9,90,67,67,Good
+1924,Male,20,5.6,81,80,62,Good
+1925,Female,21,3.3,98,70,65,Good
+1926,Male,18,4.1,69,100,76,Good
+1927,Male,18,2.9,89,67,54,Needs Improvement
+1928,Male,22,0.5,89,75,56,Needs Improvement
+1929,Female,18,5.1,94,60,61,Good
+1930,Male,21,7.7,83,82,75,Good
+1931,Female,22,1.6,91,74,55,Needs Improvement
+1932,Female,20,4.6,80,65,67,Good
+1933,Male,18,3.2,74,58,55,Needs Improvement
+1934,Male,19,5.4,73,52,53,Needs Improvement
+1935,Male,18,4.2,68,76,58,Needs Improvement
+1936,Female,20,2.1,78,51,42,Needs Improvement
+1937,Male,22,2.7,85,88,69,Good
+1938,Female,20,3.0,80,52,47,Needs Improvement
+1939,Female,19,6.9,84,68,67,Good
+1940,Male,21,6.8,94,58,54,Needs Improvement
+1941,Male,18,3.9,77,70,56,Needs Improvement
+1942,Female,22,6.7,100,70,70,Good
+1943,Female,21,4.2,90,76,70,Good
+1944,Female,20,3.9,80,49,45,Needs Improvement
+1945,Male,22,4.6,80,59,49,Needs Improvement
+1946,Female,21,5.0,72,84,69,Good
+1947,Male,22,3.5,82,79,63,Good
+1948,Female,19,4.5,60,35,35,Needs Improvement
+1949,Female,19,5.9,95,75,62,Good
+1950,Male,18,4.7,54,56,46,Needs Improvement
+1951,Female,18,4.6,82,62,58,Needs Improvement
+1952,Male,19,5.4,71,67,67,Good
+1953,Male,22,5.7,75,92,68,Good
+1954,Female,19,4.4,76,55,55,Needs Improvement
+1955,Male,18,3.6,100,50,44,Needs Improvement
+1956,Male,19,4.8,71,76,64,Good
+1957,Female,19,1.6,91,70,65,Good
+1958,Male,22,4.1,94,87,72,Good
+1959,Male,21,0.5,59,65,42,Needs Improvement
+1960,Male,18,1.5,76,87,68,Good
+1961,Female,22,1.2,97,70,59,Needs Improvement
+1962,Male,19,6.4,69,77,67,Good
+1963,Female,19,4.5,94,93,70,Good
+1964,Female,21,2.2,82,68,57,Needs Improvement
+1965,Male,18,5.4,81,85,67,Good
+1966,Male,18,6.3,83,61,63,Good
+1967,Male,20,5.4,85,73,66,Good
+1968,Female,18,4.2,72,50,55,Needs Improvement
+1969,Male,21,4.9,79,63,56,Needs Improvement
+1970,Male,20,6.1,86,55,58,Needs Improvement
+1971,Male,20,3.7,84,87,72,Good
+1972,Male,19,4.6,85,94,73,Good
+1973,Male,19,4.0,75,65,56,Needs Improvement
+1974,Female,18,1.6,88,59,49,Needs Improvement
+1975,Female,20,6.1,83,52,56,Needs Improvement
+1976,Male,19,8.2,66,74,71,Good
+1977,Male,21,2.9,77,62,62,Good
+1978,Male,19,6.2,73,62,51,Needs Improvement
+1979,Male,19,3.0,73,93,61,Good
+1980,Female,20,4.7,77,66,58,Needs Improvement
+1981,Male,20,7.2,88,78,73,Good
+1982,Female,22,3.6,76,71,58,Needs Improvement
+1983,Female,21,4.5,84,51,50,Needs Improvement
+1984,Male,20,1.3,83,44,36,Needs Improvement
+1985,Female,18,3.3,74,77,57,Needs Improvement
+1986,Female,21,1.1,79,94,69,Good
+1987,Female,21,5.3,91,74,68,Good
+1988,Female,20,6.0,83,79,73,Good
+1989,Male,21,4.1,87,57,50,Needs Improvement
+1990,Male,20,5.0,95,84,79,Good
+1991,Female,19,3.9,86,84,65,Good
+1992,Male,22,5.8,63,60,58,Needs Improvement
+1993,Male,19,4.7,85,78,66,Good
+1994,Male,20,0.9,76,45,38,Needs Improvement
+1995,Male,20,6.2,100,80,76,Good
+1996,Male,19,3.8,86,62,60,Good
+1997,Female,18,2.2,76,53,60,Good
+1998,Male,18,3.7,88,76,67,Good
+1999,Male,18,1.1,83,45,45,Needs Improvement
+2000,Male,20,2.3,65,75,61,Good
+2001,Male,21,4.8,91,54,59,Needs Improvement
+2002,Female,20,4.9,78,51,52,Needs Improvement
+2003,Female,21,5.1,96,71,68,Good
+2004,Female,19,4.5,81,68,65,Good
+2005,Female,22,3.3,96,90,79,Good
+2006,Male,21,4.4,86,52,46,Needs Improvement
+2007,Female,18,3.7,92,89,62,Good
+2008,Male,20,1.6,77,54,53,Needs Improvement
+2009,Male,19,3.1,86,83,62,Good
+2010,Male,18,6.1,65,85,60,Good
+2011,Male,19,7.4,81,75,61,Good
+2012,Male,22,5.7,67,59,65,Good
+2013,Female,20,7.3,71,49,60,Good
+2014,Female,20,4.7,73,43,43,Needs Improvement
+2015,Female,22,7.6,89,96,79,Good
+2016,Female,20,8.2,81,66,68,Good
+2017,Male,21,1.4,82,55,52,Needs Improvement
+2018,Female,19,4.9,80,54,53,Needs Improvement
+2019,Male,18,4.7,93,72,61,Good
+2020,Female,22,3.7,82,64,63,Good
+2021,Male,21,5.4,84,43,51,Needs Improvement
+2022,Male,18,4.6,76,82,65,Good
+2023,Female,18,3.2,93,75,66,Good
+2024,Male,22,4.5,94,96,66,Good
+2025,Male,21,6.7,82,86,76,Good
+2026,Female,18,4.8,76,35,46,Needs Improvement
+2027,Male,18,5.6,66,90,63,Good
+2028,Female,21,4.0,73,87,57,Needs Improvement
+2029,Female,20,5.3,60,60,51,Needs Improvement
+2030,Female,18,2.3,73,64,53,Needs Improvement
+2031,Male,19,3.6,86,76,65,Good
+2032,Male,21,4.3,81,56,63,Good
+2033,Male,18,2.2,100,67,60,Good
+2034,Female,22,3.0,78,84,57,Needs Improvement
+2035,Male,19,5.1,78,77,64,Good
+2036,Female,18,4.7,93,61,54,Needs Improvement
+2037,Female,19,6.0,63,84,66,Good
+2038,Male,19,3.4,67,74,65,Good
+2039,Female,20,4.6,89,74,68,Good
+2040,Male,19,3.3,80,63,51,Needs Improvement
+2041,Male,20,5.8,80,70,67,Good
+2042,Male,21,6.6,73,59,55,Needs Improvement
+2043,Male,20,5.4,84,43,37,Needs Improvement
+2044,Male,22,6.4,74,66,56,Needs Improvement
+2045,Female,18,4.6,83,68,63,Good
+2046,Female,21,6.0,70,72,67,Good
+2047,Female,21,4.6,80,87,78,Good
+2048,Male,22,2.7,100,61,59,Needs Improvement
+2049,Male,20,4.9,78,65,66,Good
+2050,Male,18,2.7,81,81,66,Good
+2051,Female,20,8.7,80,59,70,Good
+2052,Male,19,3.9,84,72,67,Good
+2053,Female,20,5.7,87,64,65,Good
+2054,Female,21,4.5,85,67,66,Good
+2055,Male,18,2.3,85,81,59,Needs Improvement
+2056,Male,20,1.1,80,65,39,Needs Improvement
+2057,Female,18,5.8,83,81,73,Good
+2058,Male,18,7.3,80,43,56,Needs Improvement
+2059,Female,19,3.2,64,50,41,Needs Improvement
+2060,Male,19,1.5,100,38,37,Needs Improvement
+2061,Male,21,3.9,89,54,55,Needs Improvement
+2062,Female,22,2.8,72,96,72,Good
+2063,Male,18,3.3,84,70,62,Good
+2064,Female,22,5.6,69,60,51,Needs Improvement
+2065,Male,21,4.4,77,81,62,Good
+2066,Female,18,3.0,67,83,65,Good
+2067,Female,18,5.6,81,53,56,Needs Improvement
+2068,Male,22,5.7,66,100,80,Excellent
+2069,Female,20,3.9,86,74,61,Good
+2070,Male,19,4.7,89,76,70,Good
+2071,Male,20,5.4,74,77,65,Good
+2072,Male,22,5.3,84,77,63,Good
+2073,Female,19,4.6,73,61,60,Good
+2074,Female,20,7.1,87,100,78,Good
+2075,Male,19,5.5,75,66,61,Good
+2076,Male,18,3.7,90,83,69,Good
+2077,Female,20,3.7,64,63,52,Needs Improvement
+2078,Male,19,3.5,72,61,58,Needs Improvement
+2079,Male,19,5.6,71,97,77,Good
+2080,Female,19,3.4,84,68,61,Good
+2081,Male,20,3.7,88,70,61,Good
+2082,Female,21,6.4,85,74,78,Good
+2083,Male,20,4.8,77,100,83,Excellent
+2084,Female,22,6.7,54,100,79,Good
+2085,Male,20,5.9,82,88,77,Good
+2086,Male,19,2.4,90,100,70,Good
+2087,Female,18,4.3,100,57,59,Needs Improvement
+2088,Male,20,6.3,78,79,72,Good
+2089,Female,20,2.3,75,71,61,Good
+2090,Male,19,5.3,85,45,56,Needs Improvement
+2091,Female,18,4.4,79,76,66,Good
+2092,Female,18,1.3,95,63,64,Good
+2093,Female,22,4.7,74,91,70,Good
+2094,Female,20,3.0,80,64,60,Good
+2095,Male,18,2.4,91,64,60,Good
+2096,Male,18,4.5,85,91,75,Good
+2097,Female,21,1.0,94,69,58,Needs Improvement
+2098,Female,21,3.3,78,86,68,Good
+2099,Female,18,9.1,95,76,74,Good
+2100,Male,22,5.7,65,76,65,Good
+2101,Male,18,2.9,66,67,57,Needs Improvement
+2102,Male,19,7.0,95,77,75,Good
+2103,Male,20,2.7,82,68,47,Needs Improvement
+2104,Female,22,3.5,91,59,48,Needs Improvement
+2105,Female,19,2.4,83,69,53,Needs Improvement
+2106,Female,22,5.0,82,88,71,Good
+2107,Male,19,7.0,69,78,64,Good
+2108,Male,20,2.7,82,81,66,Good
+2109,Male,20,0.8,96,70,62,Good
+2110,Female,21,6.5,83,43,60,Good
+2111,Female,19,7.3,89,53,63,Good
+2112,Male,21,0.9,89,66,59,Needs Improvement
+2113,Female,19,5.3,72,54,51,Needs Improvement
+2114,Male,21,4.9,91,63,60,Good
+2115,Male,20,3.1,79,62,48,Needs Improvement
+2116,Female,22,2.0,79,63,58,Needs Improvement
+2117,Male,21,6.3,100,90,89,Excellent
+2118,Female,19,4.8,88,69,61,Good
+2119,Male,19,5.0,76,83,57,Needs Improvement
+2120,Female,20,3.4,83,72,56,Needs Improvement
+2121,Female,19,3.1,82,90,65,Good
+2122,Female,18,0.5,99,84,57,Needs Improvement
+2123,Male,22,4.1,82,62,52,Needs Improvement
+2124,Male,21,7.1,100,97,85,Excellent
+2125,Female,22,2.9,69,64,56,Needs Improvement
+2126,Female,20,1.8,82,73,47,Needs Improvement
+2127,Male,21,5.3,74,75,61,Good
+2128,Male,21,5.6,77,77,66,Good
+2129,Male,18,3.4,77,81,58,Needs Improvement
+2130,Female,20,3.9,75,59,55,Needs Improvement
+2131,Male,19,5.0,99,80,71,Good
+2132,Male,18,4.2,96,78,66,Good
+2133,Female,18,6.3,86,70,62,Good
+2134,Male,22,8.9,77,67,70,Good
+2135,Male,22,1.4,75,59,44,Needs Improvement
+2136,Male,22,6.7,89,77,63,Good
+2137,Female,18,4.7,85,61,58,Needs Improvement
+2138,Female,19,7.0,81,73,62,Good
+2139,Female,21,5.8,87,69,57,Needs Improvement
+2140,Female,22,4.6,91,51,55,Needs Improvement
+2141,Female,19,5.9,80,57,57,Needs Improvement
+2142,Female,20,3.8,74,76,57,Needs Improvement
+2143,Female,22,3.1,69,63,53,Needs Improvement
+2144,Male,21,6.0,85,62,64,Good
+2145,Male,20,3.0,100,59,58,Needs Improvement
+2146,Female,20,5.7,71,60,58,Needs Improvement
+2147,Male,21,4.6,93,93,67,Good
+2148,Male,22,0.5,75,54,50,Needs Improvement
+2149,Female,18,3.5,77,91,71,Good
+2150,Male,21,5.1,91,65,58,Needs Improvement
+2151,Male,21,3.8,79,61,55,Needs Improvement
+2152,Male,21,0.5,84,75,56,Needs Improvement
+2153,Male,20,6.9,84,71,68,Good
+2154,Male,19,4.8,75,67,68,Good
+2155,Female,18,5.3,91,73,57,Needs Improvement
+2156,Female,22,3.6,81,71,52,Needs Improvement
+2157,Female,22,5.5,68,67,48,Needs Improvement
+2158,Male,19,7.8,73,83,73,Good
+2159,Female,21,3.2,51,50,45,Needs Improvement
+2160,Male,18,7.5,83,57,64,Good
+2161,Male,22,5.2,95,59,59,Needs Improvement
+2162,Male,22,2.9,72,55,51,Needs Improvement
+2163,Male,21,8.5,88,71,71,Good
+2164,Female,19,5.2,86,77,71,Good
+2165,Female,18,5.7,74,43,55,Needs Improvement
+2166,Male,19,4.0,97,63,56,Needs Improvement
+2167,Female,19,3.1,79,65,54,Needs Improvement
+2168,Male,18,4.8,100,66,64,Good
+2169,Female,18,7.3,66,52,63,Good
+2170,Female,22,3.9,79,66,54,Needs Improvement
+2171,Male,22,4.5,80,57,60,Good
+2172,Female,18,7.1,82,65,58,Needs Improvement
+2173,Male,20,4.0,89,46,57,Needs Improvement
+2174,Female,22,5.4,100,65,69,Good
+2175,Male,20,6.1,87,60,61,Good
+2176,Male,18,4.1,82,66,63,Good
+2177,Female,22,5.1,71,74,60,Good
+2178,Female,19,5.7,63,69,55,Needs Improvement
+2179,Male,18,3.8,94,81,76,Good
+2180,Female,21,6.0,77,65,59,Needs Improvement
+2181,Female,20,3.5,100,79,71,Good
+2182,Male,18,3.3,91,86,74,Good
+2183,Male,18,1.8,85,74,62,Good
+2184,Female,22,3.6,86,70,63,Good
+2185,Male,22,3.0,86,76,65,Good
+2186,Male,22,3.8,75,74,66,Good
+2187,Male,21,5.6,64,84,68,Good
+2188,Female,22,1.4,76,81,58,Needs Improvement
+2189,Female,18,0.9,82,81,52,Needs Improvement
+2190,Male,22,3.2,76,71,59,Needs Improvement
+2191,Female,19,5.3,69,75,68,Good
+2192,Male,22,5.0,75,75,58,Needs Improvement
+2193,Female,21,3.1,92,53,51,Needs Improvement
+2194,Male,19,6.6,89,85,77,Good
+2195,Male,18,3.3,84,47,56,Needs Improvement
+2196,Female,18,5.3,88,80,64,Good
+2197,Male,20,3.8,71,74,63,Good
+2198,Female,19,2.9,74,66,53,Needs Improvement
+2199,Female,20,3.4,85,75,59,Needs Improvement
+2200,Male,19,5.8,72,76,60,Good
+2201,Male,19,5.1,83,52,51,Needs Improvement
+2202,Female,21,6.2,69,90,75,Good
+2203,Male,20,5.1,66,71,59,Needs Improvement
+2204,Male,21,1.6,89,100,75,Good
+2205,Male,19,8.3,92,81,72,Good
+2206,Male,18,5.2,76,71,66,Good
+2207,Male,19,5.4,67,60,58,Needs Improvement
+2208,Female,21,3.8,60,68,47,Needs Improvement
+2209,Female,20,6.5,100,72,78,Good
+2210,Male,20,2.5,83,91,69,Good
+2211,Male,21,5.6,76,87,75,Good
+2212,Male,20,0.8,78,76,61,Good
+2213,Female,22,5.7,63,95,77,Good
+2214,Male,18,2.6,88,42,45,Needs Improvement
+2215,Female,18,5.0,100,76,73,Good
+2216,Female,18,6.9,74,88,65,Good
+2217,Female,20,6.0,100,78,75,Good
+2218,Male,20,6.7,81,51,66,Good
+2219,Female,19,6.5,99,89,75,Good
+2220,Male,19,3.6,85,81,70,Good
+2221,Female,18,5.6,85,75,76,Good
+2222,Male,22,1.4,100,71,63,Good
+2223,Female,19,3.3,90,98,79,Good
+2224,Male,19,7.0,86,76,63,Good
+2225,Female,20,3.8,63,67,50,Needs Improvement
+2226,Male,22,1.1,67,59,53,Needs Improvement
+2227,Male,18,8.1,87,81,81,Excellent
+2228,Male,19,5.5,97,84,76,Good
+2229,Male,22,5.9,83,71,64,Good
+2230,Female,22,2.7,76,62,54,Needs Improvement
+2231,Female,18,5.0,64,89,76,Good
+2232,Male,22,5.0,74,58,55,Needs Improvement
+2233,Female,22,3.0,83,98,75,Good
+2234,Male,22,4.2,73,60,57,Needs Improvement
+2235,Male,19,1.8,72,52,41,Needs Improvement
+2236,Female,18,3.9,81,54,49,Needs Improvement
+2237,Male,22,6.3,96,54,69,Good
+2238,Male,22,3.2,89,67,62,Good
+2239,Female,19,7.9,85,63,63,Good
+2240,Male,18,1.9,84,84,61,Good
+2241,Male,20,4.0,88,82,63,Good
+2242,Male,19,3.3,81,67,63,Good
+2243,Male,18,4.2,78,100,73,Good
+2244,Female,22,7.0,89,67,66,Good
+2245,Female,18,2.7,80,69,61,Good
+2246,Female,18,3.7,70,52,40,Needs Improvement
+2247,Male,18,5.7,96,69,67,Good
+2248,Male,20,4.7,63,74,60,Good
+2249,Female,18,4.8,97,53,56,Needs Improvement
+2250,Male,20,2.8,87,63,53,Needs Improvement
+2251,Male,22,4.4,72,75,58,Needs Improvement
+2252,Male,20,6.5,82,63,64,Good
+2253,Male,22,1.6,78,60,44,Needs Improvement
+2254,Female,22,3.2,90,81,67,Good
+2255,Female,20,1.2,90,52,45,Needs Improvement
+2256,Female,19,5.5,87,55,55,Needs Improvement
+2257,Male,21,6.7,89,72,70,Good
+2258,Female,18,4.2,81,82,64,Good
+2259,Female,21,2.7,100,74,70,Good
+2260,Male,18,2.7,94,67,58,Needs Improvement
+2261,Male,18,4.0,77,66,63,Good
+2262,Female,22,4.0,90,84,65,Good
+2263,Female,18,6.1,89,82,68,Good
+2264,Female,18,3.3,79,71,50,Needs Improvement
+2265,Female,20,5.3,79,66,58,Needs Improvement
+2266,Male,21,4.0,94,70,62,Good
+2267,Female,20,3.2,82,60,54,Needs Improvement
+2268,Female,18,3.9,85,68,63,Good
+2269,Male,22,5.1,96,63,66,Good
+2270,Female,20,6.1,100,69,74,Good
+2271,Male,20,4.0,77,64,52,Needs Improvement
+2272,Male,19,2.3,80,77,60,Good
+2273,Male,18,6.3,83,81,66,Good
+2274,Female,22,2.9,83,65,58,Needs Improvement
+2275,Female,20,5.0,86,59,67,Good
+2276,Male,20,4.5,77,80,59,Needs Improvement
+2277,Female,22,4.2,69,73,63,Good
+2278,Female,18,3.6,100,65,66,Good
+2279,Male,19,5.6,88,89,70,Good
+2280,Male,20,0.5,78,62,50,Needs Improvement
+2281,Female,19,6.5,86,42,52,Needs Improvement
+2282,Male,21,2.9,100,60,57,Needs Improvement
+2283,Female,18,5.2,74,93,70,Good
+2284,Female,21,5.1,84,66,60,Good
+2285,Female,21,6.8,68,63,66,Good
+2286,Female,21,4.9,81,70,62,Good
+2287,Male,18,3.0,88,84,63,Good
+2288,Male,18,1.6,71,69,53,Needs Improvement
+2289,Male,22,3.9,80,78,53,Needs Improvement
+2290,Male,19,1.0,90,67,50,Needs Improvement
+2291,Female,19,3.4,88,78,71,Good
+2292,Female,22,4.0,70,73,59,Needs Improvement
+2293,Male,22,3.3,86,64,55,Needs Improvement
+2294,Female,21,4.6,88,74,66,Good
+2295,Female,22,4.1,83,62,61,Good
+2296,Female,20,3.9,93,51,60,Good
+2297,Male,19,0.5,76,70,49,Needs Improvement
+2298,Male,22,2.2,86,52,47,Needs Improvement
+2299,Male,20,5.7,70,78,64,Good
+2300,Female,20,5.9,66,69,66,Good
+2301,Male,20,1.2,90,90,66,Good
+2302,Male,20,3.0,82,65,67,Good
+2303,Male,21,6.4,77,70,64,Good
+2304,Male,20,3.2,71,49,55,Needs Improvement
+2305,Male,21,4.3,90,55,51,Needs Improvement
+2306,Male,21,7.1,67,46,45,Needs Improvement
+2307,Female,20,3.8,92,85,69,Good
+2308,Female,19,3.6,87,64,63,Good
+2309,Male,20,4.2,67,89,64,Good
+2310,Male,20,7.8,83,35,49,Needs Improvement
+2311,Female,20,5.3,100,92,83,Excellent
+2312,Female,19,4.5,94,69,67,Good
+2313,Male,18,3.6,74,75,56,Needs Improvement
+2314,Male,18,5.5,89,55,54,Needs Improvement
+2315,Male,21,5.7,68,77,69,Good
+2316,Male,21,2.6,68,65,44,Needs Improvement
+2317,Female,19,5.7,81,53,61,Good
+2318,Male,22,4.2,88,53,57,Needs Improvement
+2319,Male,18,4.5,90,53,44,Needs Improvement
+2320,Male,21,2.9,90,75,62,Good
+2321,Male,18,3.8,87,61,47,Needs Improvement
+2322,Female,19,2.6,66,47,37,Needs Improvement
+2323,Female,19,2.6,81,75,57,Needs Improvement
+2324,Female,22,5.2,92,40,45,Needs Improvement
+2325,Male,22,3.9,86,89,81,Excellent
+2326,Male,19,2.2,84,98,75,Good
+2327,Female,21,8.4,85,52,69,Good
+2328,Male,18,2.5,85,85,64,Good
+2329,Male,20,6.5,62,75,64,Good
+2330,Female,22,1.8,94,63,63,Good
+2331,Female,20,5.3,81,64,62,Good
+2332,Female,21,4.0,89,79,69,Good
+2333,Female,22,3.4,59,69,49,Needs Improvement
+2334,Male,20,4.9,99,35,45,Needs Improvement
+2335,Male,21,4.6,70,99,74,Good
+2336,Female,18,3.0,100,76,67,Good
+2337,Male,21,3.0,100,69,57,Needs Improvement
+2338,Female,22,1.7,69,60,50,Needs Improvement
+2339,Female,19,5.1,90,67,57,Needs Improvement
+2340,Male,18,2.2,72,88,63,Good
+2341,Female,20,4.5,76,74,55,Needs Improvement
+2342,Male,22,5.6,76,75,72,Good
+2343,Male,19,4.9,86,53,54,Needs Improvement
+2344,Male,21,3.2,85,65,53,Needs Improvement
+2345,Male,19,6.1,70,71,57,Needs Improvement
+2346,Female,22,3.8,86,80,59,Needs Improvement
+2347,Male,22,2.1,80,64,55,Needs Improvement
+2348,Female,19,4.0,64,83,68,Good
+2349,Female,21,5.6,78,54,60,Good
+2350,Female,19,3.3,99,71,70,Good
+2351,Female,22,6.1,78,69,72,Good
+2352,Male,22,3.1,64,49,49,Needs Improvement
+2353,Male,20,3.4,90,69,58,Needs Improvement
+2354,Female,20,2.6,73,62,52,Needs Improvement
+2355,Female,18,5.7,84,90,63,Good
+2356,Male,22,4.4,80,64,61,Good
+2357,Female,20,2.7,100,75,65,Good
+2358,Male,19,3.8,80,53,59,Needs Improvement
+2359,Female,21,0.5,71,73,48,Needs Improvement
+2360,Male,19,5.9,77,64,63,Good
+2361,Female,21,4.2,70,59,48,Needs Improvement
+2362,Female,20,0.5,80,100,66,Good
+2363,Male,18,1.9,100,65,49,Needs Improvement
+2364,Female,19,3.7,94,67,68,Good
+2365,Female,19,2.1,100,83,72,Good
+2366,Male,19,5.9,87,59,58,Needs Improvement
+2367,Female,21,5.3,83,76,68,Good
+2368,Male,20,5.1,72,77,64,Good
+2369,Male,19,0.5,85,73,52,Needs Improvement
+2370,Female,19,3.6,81,100,74,Good
+2371,Female,18,3.2,90,59,53,Needs Improvement
+2372,Female,18,2.8,71,92,71,Good
+2373,Female,20,3.8,83,77,63,Good
+2374,Female,20,2.5,66,83,72,Good
+2375,Female,22,4.9,85,75,65,Good
+2376,Female,18,5.9,89,96,79,Good
+2377,Male,22,5.7,66,66,61,Good
+2378,Female,21,4.3,69,77,66,Good
+2379,Male,22,8.1,69,88,76,Good
+2380,Female,19,6.6,80,62,64,Good
+2381,Female,22,4.3,68,84,66,Good
+2382,Male,20,3.6,96,70,59,Needs Improvement
+2383,Female,21,6.9,86,53,54,Needs Improvement
+2384,Female,19,6.3,88,50,61,Good
+2385,Male,22,2.0,66,69,60,Good
+2386,Female,21,6.5,95,84,67,Good
+2387,Female,21,4.2,88,41,41,Needs Improvement
+2388,Female,19,3.0,75,73,51,Needs Improvement
+2389,Male,22,0.9,67,82,60,Good
+2390,Female,21,4.0,81,52,56,Needs Improvement
+2391,Female,21,4.5,77,61,51,Needs Improvement
+2392,Female,18,7.4,78,78,82,Excellent
+2393,Female,21,6.2,75,82,68,Good
+2394,Male,18,3.5,89,92,79,Good
+2395,Male,22,5.2,56,62,58,Needs Improvement
+2396,Female,22,6.0,96,59,58,Needs Improvement
+2397,Female,22,4.7,92,93,73,Good
+2398,Male,20,3.4,84,59,50,Needs Improvement
+2399,Male,22,3.5,81,77,56,Needs Improvement
+2400,Female,21,5.2,93,100,79,Good
+2401,Male,19,5.2,82,81,62,Good
+2402,Female,18,4.0,79,81,64,Good
+2403,Male,20,0.5,93,88,73,Good
+2404,Male,22,2.2,100,77,67,Good
+2405,Male,22,5.6,72,81,64,Good
+2406,Male,19,0.7,86,65,48,Needs Improvement
+2407,Female,19,6.6,71,86,69,Good
+2408,Male,20,6.4,87,76,80,Excellent
+2409,Male,18,4.6,74,49,44,Needs Improvement
+2410,Female,22,5.6,94,73,68,Good
+2411,Male,20,5.5,81,40,51,Needs Improvement
+2412,Male,21,4.3,82,80,72,Good
+2413,Female,21,2.0,98,67,56,Needs Improvement
+2414,Male,20,6.2,75,97,72,Good
+2415,Female,22,7.0,89,77,73,Good
+2416,Female,20,2.3,76,83,68,Good
+2417,Female,22,2.0,94,55,50,Needs Improvement
+2418,Female,19,4.3,100,80,66,Good
+2419,Male,20,3.4,79,61,55,Needs Improvement
+2420,Female,22,4.8,60,85,56,Needs Improvement
+2421,Male,20,6.7,75,54,56,Needs Improvement
+2422,Male,20,0.5,100,72,64,Good
+2423,Male,22,7.3,76,54,63,Good
+2424,Male,22,3.8,100,72,64,Good
+2425,Male,18,5.4,76,98,84,Excellent
+2426,Male,20,5.6,76,80,77,Good
+2427,Male,21,5.8,90,70,69,Good
+2428,Male,20,4.6,89,36,40,Needs Improvement
+2429,Male,20,5.0,91,63,52,Needs Improvement
+2430,Male,22,5.0,82,77,73,Good
+2431,Female,20,3.4,92,63,59,Needs Improvement
+2432,Female,20,1.3,92,90,74,Good
+2433,Female,21,2.3,93,71,53,Needs Improvement
+2434,Male,22,4.3,76,85,66,Good
+2435,Female,20,3.1,92,73,67,Good
+2436,Female,19,3.1,77,66,52,Needs Improvement
+2437,Female,18,7.7,80,63,70,Good
+2438,Male,21,6.0,80,56,57,Needs Improvement
+2439,Male,20,4.0,72,85,66,Good
+2440,Male,19,5.7,65,64,52,Needs Improvement
+2441,Male,20,3.7,94,77,67,Good
+2442,Female,20,4.7,75,63,68,Good
+2443,Female,22,5.3,79,55,57,Needs Improvement
+2444,Female,22,3.7,75,78,58,Needs Improvement
+2445,Female,22,3.3,79,60,60,Good
+2446,Male,19,6.7,77,64,59,Needs Improvement
+2447,Male,20,5.6,95,53,67,Good
+2448,Male,18,0.5,76,63,42,Needs Improvement
+2449,Female,21,3.3,99,70,64,Good
+2450,Male,22,3.1,93,66,67,Good
+2451,Male,22,3.4,77,81,59,Needs Improvement
+2452,Female,20,6.1,85,72,67,Good
+2453,Female,20,4.5,87,100,83,Excellent
+2454,Male,19,2.0,90,76,49,Needs Improvement
+2455,Male,19,3.8,91,46,55,Needs Improvement
+2456,Male,22,5.5,84,67,62,Good
+2457,Male,20,4.1,72,68,65,Good
+2458,Male,18,3.3,88,61,52,Needs Improvement
+2459,Male,21,5.1,80,71,56,Needs Improvement
+2460,Female,20,7.4,54,61,55,Needs Improvement
+2461,Female,20,5.3,86,75,64,Good
+2462,Female,19,6.8,75,43,51,Needs Improvement
+2463,Male,21,3.5,77,86,64,Good
+2464,Female,22,4.5,82,48,41,Needs Improvement
+2465,Male,20,4.4,66,66,55,Needs Improvement
+2466,Male,22,4.7,83,60,59,Needs Improvement
+2467,Female,20,5.3,79,74,64,Good
+2468,Male,22,2.8,73,67,56,Needs Improvement
+2469,Male,21,5.7,82,74,67,Good
+2470,Female,19,1.6,65,86,52,Needs Improvement
+2471,Female,21,2.1,83,81,60,Good
+2472,Female,18,8.3,87,71,72,Good
+2473,Male,19,3.6,85,76,62,Good
+2474,Female,21,5.8,90,97,72,Good
+2475,Female,18,7.6,94,81,82,Excellent
+2476,Male,20,0.5,81,66,46,Needs Improvement
+2477,Female,20,6.5,93,88,71,Good
+2478,Female,22,5.7,81,75,67,Good
+2479,Female,19,7.5,75,57,59,Needs Improvement
+2480,Male,20,2.4,78,67,58,Needs Improvement
+2481,Male,19,7.1,85,49,62,Good
+2482,Male,20,3.2,93,38,49,Needs Improvement
+2483,Male,22,6.4,82,57,59,Needs Improvement
+2484,Female,21,4.4,75,72,64,Good
+2485,Male,22,5.9,96,72,61,Good
+2486,Male,18,4.6,68,50,55,Needs Improvement
+2487,Female,20,1.2,75,37,35,Needs Improvement
+2488,Female,18,0.5,91,91,75,Good
+2489,Female,18,4.9,100,71,72,Good
+2490,Male,19,4.0,87,92,71,Good
+2491,Male,20,5.2,84,91,74,Good
+2492,Male,18,4.0,79,80,71,Good
+2493,Female,21,8.1,87,71,60,Good
+2494,Female,18,4.9,83,64,59,Needs Improvement
+2495,Male,21,3.7,74,80,71,Good
+2496,Female,19,5.1,79,68,65,Good
+2497,Female,18,3.7,73,62,50,Needs Improvement
+2498,Female,22,4.7,82,41,50,Needs Improvement
+2499,Male,19,2.3,84,69,52,Needs Improvement
+2500,Female,21,4.5,98,85,71,Good
+2501,Female,19,3.6,76,88,69,Good
+2502,Male,18,2.5,80,71,60,Good
+2503,Male,20,8.1,95,58,70,Good
+2504,Female,20,2.5,100,83,74,Good
+2505,Female,21,4.5,87,70,57,Needs Improvement
+2506,Male,21,3.1,79,65,56,Needs Improvement
+2507,Male,20,5.0,77,50,48,Needs Improvement
+2508,Female,21,2.2,64,99,64,Good
+2509,Female,19,6.0,73,80,64,Good
+2510,Female,22,8.2,83,82,78,Good
+2511,Female,22,3.0,80,58,57,Needs Improvement
+2512,Male,19,6.7,88,71,74,Good
+2513,Female,22,3.8,80,69,54,Needs Improvement
+2514,Female,18,7.2,75,81,71,Good
+2515,Male,19,8.4,85,89,74,Good
+2516,Female,21,4.1,100,50,49,Needs Improvement
+2517,Male,19,1.8,79,55,44,Needs Improvement
+2518,Female,20,6.2,83,79,72,Good
+2519,Female,21,4.9,90,63,63,Good
+2520,Male,20,5.4,76,81,71,Good
+2521,Male,21,3.9,95,65,64,Good
+2522,Female,22,2.9,66,53,42,Needs Improvement
+2523,Female,19,6.6,78,45,59,Needs Improvement
+2524,Female,18,5.1,79,77,70,Good
+2525,Male,21,1.9,84,77,58,Needs Improvement
+2526,Female,21,5.7,62,84,65,Good
+2527,Male,20,5.4,96,75,66,Good
+2528,Male,22,3.9,86,35,38,Needs Improvement
+2529,Female,20,7.4,93,77,77,Good
+2530,Male,20,3.4,98,50,57,Needs Improvement
+2531,Female,22,4.2,75,44,42,Needs Improvement
+2532,Female,18,5.9,57,42,40,Needs Improvement
+2533,Female,20,4.6,93,41,46,Needs Improvement
+2534,Female,20,2.0,79,74,58,Needs Improvement
+2535,Female,21,4.8,71,60,48,Needs Improvement
+2536,Male,22,3.8,88,49,57,Needs Improvement
+2537,Male,19,6.0,100,70,74,Good
+2538,Female,18,4.8,81,55,57,Needs Improvement
+2539,Female,18,4.7,92,84,75,Good
+2540,Male,22,2.6,72,90,65,Good
+2541,Male,21,4.1,65,67,58,Needs Improvement
+2542,Male,21,6.2,91,89,70,Good
+2543,Male,22,3.1,87,89,76,Good
+2544,Female,21,4.4,77,71,58,Needs Improvement
+2545,Female,18,2.8,99,94,72,Good
+2546,Male,18,2.4,64,61,61,Good
+2547,Female,19,4.3,70,43,44,Needs Improvement
+2548,Male,22,4.8,77,48,54,Needs Improvement
+2549,Female,20,8.1,78,61,67,Good
+2550,Male,20,3.7,97,77,60,Good
+2551,Female,19,4.4,82,54,49,Needs Improvement
+2552,Male,19,2.2,80,61,62,Good
+2553,Male,21,5.6,69,53,56,Needs Improvement
+2554,Female,19,5.2,93,61,61,Good
+2555,Male,19,7.2,71,89,72,Good
+2556,Female,20,6.5,69,75,67,Good
+2557,Female,21,5.1,78,62,60,Good
+2558,Male,19,3.7,84,87,70,Good
+2559,Female,19,4.9,75,70,66,Good
+2560,Female,21,4.3,89,72,59,Needs Improvement
+2561,Female,22,6.2,79,86,67,Good
+2562,Female,21,6.0,93,65,70,Good
+2563,Female,20,4.0,87,83,78,Good
+2564,Male,22,1.9,100,82,70,Good
+2565,Female,18,6.9,78,68,71,Good
+2566,Female,21,5.5,90,50,56,Needs Improvement
+2567,Female,20,3.9,64,70,58,Needs Improvement
+2568,Female,22,5.5,100,86,77,Good
+2569,Female,21,4.6,90,81,69,Good
+2570,Male,19,6.9,79,94,85,Excellent
+2571,Female,21,1.0,79,63,55,Needs Improvement
+2572,Male,18,3.8,80,81,63,Good
+2573,Male,21,7.4,100,56,57,Needs Improvement
+2574,Male,22,5.5,91,73,67,Good
+2575,Male,22,7.7,78,85,69,Good
+2576,Female,21,2.3,70,83,60,Good
+2577,Male,22,6.4,94,71,63,Good
+2578,Male,19,6.3,90,66,72,Good
+2579,Female,21,1.5,89,56,53,Needs Improvement
+2580,Female,19,4.0,81,67,62,Good
+2581,Female,19,4.3,79,52,57,Needs Improvement
+2582,Male,20,1.6,99,65,58,Needs Improvement
+2583,Female,21,4.0,100,45,55,Needs Improvement
+2584,Female,22,6.1,88,52,65,Good
+2585,Male,19,3.8,92,82,67,Good
+2586,Female,20,4.9,84,80,71,Good
+2587,Female,21,4.9,68,66,52,Needs Improvement
+2588,Female,21,4.5,72,71,60,Good
+2589,Female,18,3.2,93,73,74,Good
+2590,Male,18,5.7,95,76,74,Good
+2591,Female,19,1.6,93,75,60,Good
+2592,Female,18,4.5,85,51,54,Needs Improvement
+2593,Male,19,7.0,93,36,53,Needs Improvement
+2594,Female,22,3.7,81,56,54,Needs Improvement
+2595,Male,19,3.2,88,68,57,Needs Improvement
+2596,Female,18,5.8,80,83,73,Good
+2597,Male,22,4.8,71,73,64,Good
+2598,Male,18,5.8,91,77,70,Good
+2599,Male,19,4.6,95,57,59,Needs Improvement
+2600,Male,20,0.5,100,69,58,Needs Improvement
+2601,Female,21,6.6,85,71,65,Good
+2602,Male,18,8.2,72,59,65,Good
+2603,Female,19,6.8,79,55,63,Good
+2604,Male,22,0.5,81,67,58,Needs Improvement
+2605,Male,18,5.3,83,79,69,Good
+2606,Male,18,3.7,87,57,52,Needs Improvement
+2607,Female,21,2.5,86,67,56,Needs Improvement
+2608,Male,19,4.7,90,89,67,Good
+2609,Female,20,4.2,84,63,62,Good
+2610,Female,22,5.4,60,70,48,Needs Improvement
+2611,Female,19,4.6,84,69,67,Good
+2612,Female,22,2.5,83,67,62,Good
+2613,Female,18,3.5,88,93,57,Needs Improvement
+2614,Female,21,3.2,78,74,66,Good
+2615,Female,21,1.4,84,48,50,Needs Improvement
+2616,Female,20,2.0,88,91,66,Good
+2617,Female,21,4.1,80,74,56,Needs Improvement
+2618,Male,18,7.1,89,65,62,Good
+2619,Male,20,3.5,83,89,65,Good
+2620,Male,19,3.1,84,59,60,Good
+2621,Male,21,2.4,53,94,60,Good
+2622,Male,20,4.6,71,71,64,Good
+2623,Female,18,6.6,71,84,70,Good
+2624,Female,22,8.1,84,100,85,Excellent
+2625,Female,22,5.0,95,73,59,Needs Improvement
+2626,Female,18,4.8,81,69,56,Needs Improvement
+2627,Female,18,3.5,90,55,60,Good
+2628,Female,22,3.8,88,68,60,Good
+2629,Female,20,5.6,83,55,58,Needs Improvement
+2630,Male,22,3.9,88,67,69,Good
+2631,Male,18,4.2,84,100,75,Good
+2632,Male,21,4.5,81,72,61,Good
+2633,Male,19,3.4,86,62,62,Good
+2634,Female,21,4.4,96,67,63,Good
+2635,Female,21,0.9,87,64,53,Needs Improvement
+2636,Female,18,5.5,84,85,76,Good
+2637,Male,22,8.7,73,69,68,Good
+2638,Female,20,3.5,96,93,77,Good
+2639,Female,21,5.2,68,66,58,Needs Improvement
+2640,Female,22,6.0,65,66,64,Good
+2641,Male,20,6.8,86,57,63,Good
+2642,Female,21,4.0,73,65,55,Needs Improvement
+2643,Male,20,1.3,93,46,46,Needs Improvement
+2644,Male,22,5.0,65,40,35,Needs Improvement
+2645,Male,19,4.7,92,79,74,Good
+2646,Male,22,3.9,90,46,44,Needs Improvement
+2647,Female,18,4.3,83,76,59,Needs Improvement
+2648,Male,20,4.8,61,63,52,Needs Improvement
+2649,Male,19,5.2,65,83,57,Needs Improvement
+2650,Female,20,5.1,84,46,54,Needs Improvement
+2651,Female,20,4.1,80,78,66,Good
+2652,Male,21,5.2,89,75,65,Good
+2653,Female,18,4.0,81,75,59,Needs Improvement
+2654,Male,20,5.7,80,86,68,Good
+2655,Male,22,3.4,58,71,57,Needs Improvement
+2656,Male,22,4.6,90,36,39,Needs Improvement
+2657,Male,21,1.6,76,76,55,Needs Improvement
+2658,Female,18,3.8,78,74,53,Needs Improvement
+2659,Male,18,5.5,71,67,64,Good
+2660,Female,22,2.6,67,58,47,Needs Improvement
+2661,Female,19,3.9,97,65,64,Good
+2662,Female,21,0.5,90,90,70,Good
+2663,Female,21,2.0,90,57,58,Needs Improvement
+2664,Male,22,2.5,80,46,40,Needs Improvement
+2665,Female,22,4.7,65,49,50,Needs Improvement
+2666,Male,19,5.1,100,70,72,Good
+2667,Female,19,4.4,86,93,77,Good
+2668,Female,18,3.8,83,100,79,Good
+2669,Male,21,3.8,78,79,55,Needs Improvement
+2670,Male,21,5.8,62,56,57,Needs Improvement
+2671,Male,22,4.9,93,58,55,Needs Improvement
+2672,Female,18,3.9,71,82,67,Good
+2673,Female,21,6.8,87,89,80,Excellent
+2674,Male,18,8.0,90,61,70,Good
+2675,Male,18,2.3,85,90,66,Good
+2676,Male,22,5.4,87,67,70,Good
+2677,Male,18,10.0,95,80,84,Excellent
+2678,Female,19,5.0,74,86,70,Good
+2679,Male,19,4.7,84,49,48,Needs Improvement
+2680,Male,20,4.4,80,76,66,Good
+2681,Male,22,5.4,64,90,79,Good
+2682,Male,20,5.9,85,62,54,Needs Improvement
+2683,Female,19,2.3,95,55,56,Needs Improvement
+2684,Male,20,4.5,96,77,72,Good
+2685,Female,22,0.5,100,72,66,Good
+2686,Male,22,4.1,64,65,58,Needs Improvement
+2687,Male,18,2.9,98,70,62,Good
+2688,Female,21,5.1,84,47,54,Needs Improvement
+2689,Male,18,1.5,98,76,60,Good
+2690,Female,22,3.6,78,92,75,Good
+2691,Female,19,6.2,77,60,52,Needs Improvement
+2692,Male,19,3.3,70,58,48,Needs Improvement
+2693,Female,18,1.1,90,72,59,Needs Improvement
+2694,Female,22,5.0,87,100,84,Excellent
+2695,Female,19,3.4,71,85,64,Good
+2696,Female,22,4.2,60,69,52,Needs Improvement
+2697,Female,19,3.2,86,71,59,Needs Improvement
+2698,Female,22,8.1,87,87,77,Good
+2699,Female,20,1.7,72,57,45,Needs Improvement
+2700,Female,22,9.6,70,79,72,Good
+2701,Male,22,3.8,89,54,52,Needs Improvement
+2702,Male,18,4.8,100,83,64,Good
+2703,Female,20,3.5,77,66,58,Needs Improvement
+2704,Male,21,3.4,73,73,62,Good
+2705,Female,18,3.1,85,65,64,Good
+2706,Female,21,5.6,88,80,74,Good
+2707,Male,19,2.0,78,68,58,Needs Improvement
+2708,Female,21,5.2,100,100,83,Excellent
+2709,Female,22,0.6,91,90,56,Needs Improvement
+2710,Female,21,5.0,78,52,55,Needs Improvement
+2711,Female,18,6.0,66,73,63,Good
+2712,Male,18,2.2,95,80,69,Good
+2713,Female,21,5.7,94,64,67,Good
+2714,Female,18,4.6,79,87,69,Good
+2715,Female,18,7.4,86,85,86,Excellent
+2716,Male,21,3.0,80,69,62,Good
+2717,Female,20,9.6,87,84,82,Excellent
+2718,Male,20,0.5,72,36,36,Needs Improvement
+2719,Male,19,3.9,70,89,67,Good
+2720,Female,18,1.4,90,82,62,Good
+2721,Female,21,7.8,91,55,53,Needs Improvement
+2722,Male,18,4.0,77,74,57,Needs Improvement
+2723,Female,22,4.2,75,42,43,Needs Improvement
+2724,Male,18,5.3,93,59,63,Good
+2725,Male,18,4.5,75,85,59,Needs Improvement
+2726,Female,20,3.4,83,70,57,Needs Improvement
+2727,Female,21,2.2,81,69,53,Needs Improvement
+2728,Male,18,4.8,67,71,60,Good
+2729,Male,20,5.2,84,69,65,Good
+2730,Male,19,5.8,83,84,68,Good
+2731,Male,20,7.9,86,61,63,Good
+2732,Female,20,0.6,84,76,53,Needs Improvement
+2733,Female,20,4.4,100,54,56,Needs Improvement
+2734,Female,18,6.6,94,80,73,Good
+2735,Female,18,4.3,82,66,66,Good
+2736,Female,19,0.5,83,69,47,Needs Improvement
+2737,Male,22,2.2,100,65,67,Good
+2738,Female,22,5.1,91,67,57,Needs Improvement
+2739,Female,22,5.0,70,56,58,Needs Improvement
+2740,Female,19,5.7,91,75,66,Good
+2741,Female,22,3.1,94,78,60,Good
+2742,Female,22,5.0,98,51,64,Good
+2743,Male,20,2.8,78,62,53,Needs Improvement
+2744,Male,18,5.0,77,70,62,Good
+2745,Male,18,4.6,73,62,55,Needs Improvement
+2746,Female,20,3.0,85,67,55,Needs Improvement
+2747,Male,20,7.3,89,93,79,Good
+2748,Male,20,1.4,77,56,35,Needs Improvement
+2749,Female,18,4.2,81,38,36,Needs Improvement
+2750,Female,22,3.0,61,62,52,Needs Improvement
+2751,Female,20,7.8,97,65,76,Good
+2752,Male,19,5.6,66,63,64,Good
+2753,Male,20,3.3,86,74,57,Needs Improvement
+2754,Female,21,4.0,84,56,55,Needs Improvement
+2755,Female,20,7.9,82,54,50,Needs Improvement
+2756,Male,18,2.8,83,61,52,Needs Improvement
+2757,Male,20,1.3,72,61,52,Needs Improvement
+2758,Female,21,5.0,79,100,76,Good
+2759,Female,19,5.1,92,92,74,Good
+2760,Male,22,5.7,95,47,56,Needs Improvement
+2761,Female,20,5.7,78,43,57,Needs Improvement
+2762,Male,21,7.7,66,69,63,Good
+2763,Male,21,1.4,74,97,66,Good
+2764,Male,19,2.3,100,79,73,Good
+2765,Male,18,5.7,75,70,61,Good
+2766,Female,20,2.5,81,64,46,Needs Improvement
+2767,Female,21,1.9,96,85,73,Good
+2768,Male,19,7.9,77,72,74,Good
+2769,Male,22,1.6,80,94,55,Needs Improvement
+2770,Male,21,3.9,90,46,50,Needs Improvement
+2771,Male,19,4.4,99,76,68,Good
+2772,Male,18,6.9,76,62,69,Good
+2773,Female,18,1.1,96,76,60,Good
+2774,Female,21,5.2,79,74,65,Good
+2775,Female,21,2.9,73,77,60,Good
+2776,Female,20,5.6,84,84,69,Good
+2777,Male,19,2.9,70,89,71,Good
+2778,Male,21,7.3,87,97,78,Good
+2779,Male,20,2.9,100,70,60,Good
+2780,Male,20,0.5,93,62,51,Needs Improvement
+2781,Male,21,3.1,81,53,43,Needs Improvement
+2782,Female,18,4.0,93,76,75,Good
+2783,Male,19,6.4,73,82,69,Good
+2784,Female,19,2.2,74,51,50,Needs Improvement
+2785,Female,18,2.3,81,86,59,Needs Improvement
+2786,Female,21,6.2,83,69,69,Good
+2787,Female,19,2.0,69,52,49,Needs Improvement
+2788,Male,21,4.2,79,58,59,Needs Improvement
+2789,Female,21,4.2,81,57,64,Good
+2790,Female,20,4.9,97,57,57,Needs Improvement
+2791,Female,18,3.2,69,78,59,Needs Improvement
+2792,Male,21,2.8,68,82,56,Needs Improvement
+2793,Male,22,5.1,84,94,74,Good
+2794,Male,18,2.9,94,60,59,Needs Improvement
+2795,Female,19,2.1,88,75,63,Good
+2796,Female,20,6.7,85,61,71,Good
+2797,Male,19,5.4,79,70,65,Good
+2798,Female,19,7.7,89,49,60,Good
+2799,Male,18,5.9,90,54,53,Needs Improvement
+2800,Male,19,2.2,79,81,65,Good
+2801,Female,21,4.7,73,49,49,Needs Improvement
+2802,Female,19,2.7,73,79,64,Good
+2803,Female,20,1.5,91,61,50,Needs Improvement
+2804,Female,20,3.7,67,43,50,Needs Improvement
+2805,Male,22,6.3,99,35,54,Needs Improvement
+2806,Male,20,5.0,77,90,76,Good
+2807,Male,19,2.0,85,43,46,Needs Improvement
+2808,Male,20,3.6,89,69,56,Needs Improvement
+2809,Male,18,4.2,75,75,60,Good
+2810,Female,20,1.5,77,52,39,Needs Improvement
+2811,Male,21,5.8,83,62,62,Good
+2812,Male,18,4.1,73,77,55,Needs Improvement
+2813,Male,22,2.0,71,74,57,Needs Improvement
+2814,Female,21,1.9,72,64,35,Needs Improvement
+2815,Female,19,6.5,94,73,74,Good
+2816,Female,19,3.8,86,69,55,Needs Improvement
+2817,Female,19,6.6,74,56,53,Needs Improvement
+2818,Male,21,7.3,91,87,85,Excellent
+2819,Male,21,6.3,75,73,67,Good
+2820,Female,21,3.5,62,44,47,Needs Improvement
+2821,Female,18,0.5,89,77,53,Needs Improvement
+2822,Male,18,5.1,98,61,67,Good
+2823,Male,19,8.3,88,66,69,Good
+2824,Female,20,4.4,63,70,58,Needs Improvement
+2825,Female,19,0.9,82,59,56,Needs Improvement
+2826,Female,22,3.3,79,95,64,Good
+2827,Female,18,4.2,86,49,56,Needs Improvement
+2828,Male,21,2.5,74,71,58,Needs Improvement
+2829,Male,18,0.5,79,75,53,Needs Improvement
+2830,Male,21,4.3,68,71,53,Needs Improvement
+2831,Female,22,3.1,84,67,56,Needs Improvement
+2832,Female,22,7.7,68,65,59,Needs Improvement
+2833,Male,18,4.7,86,59,64,Good
+2834,Male,21,5.3,74,59,57,Needs Improvement
+2835,Male,22,4.3,51,86,59,Needs Improvement
+2836,Male,19,4.7,90,64,54,Needs Improvement
+2837,Female,19,1.5,87,100,68,Good
+2838,Male,21,2.6,96,79,71,Good
+2839,Male,18,6.5,61,35,45,Needs Improvement
+2840,Male,22,4.9,75,82,66,Good
+2841,Male,18,3.8,83,69,68,Good
+2842,Male,19,5.4,88,51,54,Needs Improvement
+2843,Male,22,5.4,67,88,65,Good
+2844,Male,18,8.1,86,64,69,Good
+2845,Female,20,4.8,76,63,60,Good
+2846,Female,21,2.6,63,75,53,Needs Improvement
+2847,Female,21,4.3,74,86,63,Good
+2848,Female,20,5.6,87,72,73,Good
+2849,Male,19,6.3,64,71,60,Good
+2850,Female,22,1.6,88,60,44,Needs Improvement
+2851,Female,21,5.0,85,86,72,Good
+2852,Male,20,2.9,79,72,63,Good
+2853,Male,20,3.5,66,67,53,Needs Improvement
+2854,Female,19,6.0,66,65,62,Good
+2855,Female,19,5.8,78,84,65,Good
+2856,Male,18,3.3,71,66,58,Needs Improvement
+2857,Female,21,4.2,79,84,62,Good
+2858,Male,18,3.5,91,63,59,Needs Improvement
+2859,Male,20,9.7,79,80,81,Excellent
+2860,Male,22,5.0,79,73,64,Good
+2861,Male,22,3.0,79,57,45,Needs Improvement
+2862,Female,19,6.9,92,69,63,Good
+2863,Male,22,6.9,95,39,63,Good
+2864,Male,22,7.7,86,60,61,Good
+2865,Female,22,8.3,83,48,63,Good
+2866,Male,20,5.8,84,98,79,Good
+2867,Female,22,3.9,96,48,48,Needs Improvement
+2868,Female,22,4.1,87,100,73,Good
+2869,Female,22,4.0,97,77,76,Good
+2870,Male,18,3.8,78,63,73,Good
+2871,Female,20,6.7,69,81,67,Good
+2872,Female,19,4.5,75,61,54,Needs Improvement
+2873,Male,18,6.2,76,50,46,Needs Improvement
+2874,Female,21,5.7,98,71,60,Good
+2875,Female,20,2.5,89,80,59,Needs Improvement
+2876,Female,20,1.4,76,88,60,Good
+2877,Female,21,2.3,90,77,62,Good
+2878,Female,21,3.7,81,63,60,Good
+2879,Male,21,4.7,98,89,76,Good
+2880,Female,19,3.3,79,86,69,Good
+2881,Female,22,5.8,67,74,60,Good
+2882,Male,20,3.6,80,87,67,Good
+2883,Male,22,5.0,79,100,75,Good
+2884,Male,22,4.7,69,62,49,Needs Improvement
+2885,Female,21,7.6,88,57,54,Needs Improvement
+2886,Male,19,2.7,96,62,53,Needs Improvement
+2887,Female,18,8.5,71,51,46,Needs Improvement
+2888,Female,19,3.4,92,78,59,Needs Improvement
+2889,Male,22,2.1,76,47,47,Needs Improvement
+2890,Male,19,4.1,82,88,70,Good
+2891,Female,21,10.0,81,61,69,Good
+2892,Male,18,6.1,82,89,80,Excellent
+2893,Female,21,5.6,87,35,45,Needs Improvement
+2894,Male,18,5.9,72,65,63,Good
+2895,Male,22,3.1,95,52,49,Needs Improvement
+2896,Male,18,5.1,87,89,74,Good
+2897,Female,18,4.5,90,94,76,Good
+2898,Male,18,7.8,74,37,52,Needs Improvement
+2899,Female,19,4.3,71,82,63,Good
+2900,Female,19,3.8,94,85,71,Good
+2901,Female,22,2.4,70,75,59,Needs Improvement
+2902,Female,18,4.8,83,78,59,Needs Improvement
+2903,Male,20,5.0,92,77,72,Good
+2904,Female,22,2.3,81,82,56,Needs Improvement
+2905,Female,18,5.3,94,55,54,Needs Improvement
+2906,Male,18,4.9,79,87,71,Good
+2907,Female,19,6.3,69,73,67,Good
+2908,Male,22,6.7,86,72,69,Good
+2909,Female,18,4.7,84,78,68,Good
+2910,Male,18,2.6,100,52,47,Needs Improvement
+2911,Female,22,3.0,73,48,43,Needs Improvement
+2912,Male,20,7.7,79,68,57,Needs Improvement
+2913,Female,22,4.8,75,92,67,Good
+2914,Female,22,7.6,81,53,53,Needs Improvement
+2915,Male,20,5.4,80,72,64,Good
+2916,Male,22,5.9,73,60,70,Good
+2917,Male,18,6.2,87,58,64,Good
+2918,Male,22,2.3,80,77,48,Needs Improvement
+2919,Female,20,5.1,95,81,63,Good
+2920,Female,21,2.3,76,59,44,Needs Improvement
+2921,Male,22,4.0,100,89,65,Good
+2922,Female,19,5.7,85,76,66,Good
+2923,Male,18,2.7,95,67,60,Good
+2924,Male,18,5.5,83,75,60,Good
+2925,Female,19,1.8,74,99,67,Good
+2926,Female,19,6.6,79,81,72,Good
+2927,Female,22,3.3,68,60,55,Needs Improvement
+2928,Female,19,2.7,81,70,58,Needs Improvement
+2929,Female,21,1.9,84,72,59,Needs Improvement
+2930,Female,20,3.5,82,79,63,Good
+2931,Female,19,1.1,95,73,53,Needs Improvement
+2932,Male,19,3.5,81,97,68,Good
+2933,Male,21,6.5,63,67,54,Needs Improvement
+2934,Male,18,4.2,100,46,61,Good
+2935,Male,18,2.4,75,73,49,Needs Improvement
+2936,Male,22,4.9,92,64,67,Good
+2937,Female,21,4.7,67,49,41,Needs Improvement
+2938,Male,20,8.0,84,60,69,Good
+2939,Male,20,5.9,74,65,65,Good
+2940,Male,21,5.1,54,86,70,Good
+2941,Male,20,6.1,79,49,49,Needs Improvement
+2942,Male,18,4.3,81,75,64,Good
+2943,Male,20,4.4,80,100,72,Good
+2944,Male,20,7.5,84,68,63,Good
+2945,Female,21,1.6,79,67,53,Needs Improvement
+2946,Female,21,6.2,83,80,74,Good
+2947,Male,20,4.3,84,77,62,Good
+2948,Female,19,4.0,82,90,72,Good
+2949,Female,21,3.5,80,68,53,Needs Improvement
+2950,Female,22,4.8,73,80,60,Good
+2951,Female,22,4.4,88,80,66,Good
+2952,Male,18,3.8,79,65,56,Needs Improvement
+2953,Female,20,3.2,78,68,60,Good
+2954,Female,19,1.1,87,70,49,Needs Improvement
+2955,Female,18,3.2,84,53,62,Good
+2956,Male,20,3.6,75,65,47,Needs Improvement
+2957,Male,21,4.8,95,91,76,Good
+2958,Male,22,8.0,70,85,72,Good
+2959,Male,19,3.4,72,62,50,Needs Improvement
+2960,Male,22,2.7,89,70,58,Needs Improvement
+2961,Male,21,3.2,100,84,73,Good
+2962,Male,20,4.8,76,76,68,Good
+2963,Female,21,5.6,86,81,69,Good
+2964,Female,21,5.8,70,77,67,Good
+2965,Female,22,6.0,73,73,58,Needs Improvement
+2966,Male,19,6.2,93,68,66,Good
+2967,Male,21,4.0,86,53,55,Needs Improvement
+2968,Male,22,8.2,94,80,66,Good
+2969,Male,19,3.9,93,67,62,Good
+2970,Male,20,4.7,61,47,45,Needs Improvement
+2971,Female,20,6.8,70,62,66,Good
+2972,Female,18,5.5,85,82,71,Good
+2973,Male,22,0.5,65,43,38,Needs Improvement
+2974,Male,19,4.5,71,56,51,Needs Improvement
+2975,Male,21,6.1,96,72,72,Good
+2976,Male,20,2.1,77,90,68,Good
+2977,Female,19,5.9,89,84,66,Good
+2978,Male,22,5.2,82,91,75,Good
+2979,Male,18,6.6,75,73,72,Good
+2980,Male,20,3.3,65,67,59,Needs Improvement
+2981,Male,19,6.3,84,82,72,Good
+2982,Female,19,4.8,97,57,61,Good
+2983,Male,19,7.7,75,56,65,Good
+2984,Male,22,9.5,83,54,59,Needs Improvement
+2985,Female,22,7.3,67,85,74,Good
+2986,Female,22,5.4,75,58,46,Needs Improvement
+2987,Female,21,8.7,85,84,82,Excellent
+2988,Male,19,5.6,89,72,65,Good
+2989,Male,20,2.9,88,85,66,Good
+2990,Female,22,4.4,62,55,47,Needs Improvement
+2991,Female,22,5.9,77,61,59,Needs Improvement
+2992,Female,19,6.0,72,76,67,Good
+2993,Female,22,2.5,79,64,57,Needs Improvement
+2994,Female,21,2.5,81,35,47,Needs Improvement
+2995,Female,21,3.9,93,51,54,Needs Improvement
+2996,Male,22,5.5,85,54,48,Needs Improvement
+2997,Male,19,5.7,96,55,67,Good
+2998,Male,19,4.8,75,80,58,Needs Improvement
+2999,Female,19,3.0,68,75,55,Needs Improvement
+3000,Female,18,7.6,97,72,70,Good
